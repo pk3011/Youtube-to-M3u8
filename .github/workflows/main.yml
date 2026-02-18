@@ -1,8 +1,10 @@
 name: YouTube Live M3U8 Generator
-run-name: Debug mode - testing cookies 🎬
+run-name: Generate playlist with cookies 🎬
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'
   push:
     paths:
       - 'streams.txt'
@@ -12,15 +14,18 @@ permissions:
   contents: write
 
 jobs:
-  debug:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install yt-dlp
+      - name: Install yt-dlp and Deno
         run: |
           pip install --upgrade yt-dlp
-          echo "yt-dlp version: $(yt-dlp --version)"
+          curl -fsSL https://deno.land/install.sh | sh
+          echo "/home/runner/.deno/bin" >> $GITHUB_PATH
+          echo "✅ yt-dlp version: $(yt-dlp --version)"
+          echo "✅ Deno version: $(deno --version | head -1)"
 
       - name: Create cookies file
         env:
@@ -29,41 +34,106 @@ jobs:
           if [ -n "$COOKIES" ]; then
             echo "$COOKIES" > cookies.txt
             echo "✅ Cookies file created ($(wc -l < cookies.txt) lines)"
-            echo "First line: $(head -1 cookies.txt)"
           else
             echo "⚠️ No cookies secret found"
             exit 1
           fi
 
-      - name: Debug yt-dlp with cookies
+      - name: Generate playlist
         run: |
-          echo "🔍 Starting debug..."
-          echo "Current directory: $(pwd)"
-          echo "Files in directory:"
-          ls -la
+          echo "#EXTM3U" > streams.m3u8
+          echo "# Generated: $(date -u)" >> streams.m3u8
+          echo "" >> streams.m3u8
+
+          TOTAL=0
+          ACTIVE=0
+
+          while IFS= read -r line || [ -n "$line" ]; do
+            [[ "$line" =~ ^#.*$ ]] && continue
+            [[ -z "${line// }" ]] && continue
+
+            URL=$(echo "$line" | grep -o 'https\?://[^ ]*' | head -1)
+            [ -z "$URL" ] && continue
+
+            TOTAL=$((TOTAL + 1))
+            echo ""
+            echo "📺 [$TOTAL] Processing: $URL"
+
+            NAME=$(echo "$URL" | grep -o '@[^/]*' | tr -d '@' || echo "Channel $TOTAL")
+
+            STREAM_URL=""
+
+            if [ -f "cookies.txt" ]; then
+              echo "  🔑 Using cookies..."
+              
+              # Get video ID
+              VIDEO_ID=$(yt-dlp --cookies cookies.txt --get-id "$URL" 2>/dev/null)
+              
+              if [ -n "$VIDEO_ID" ]; then
+                echo "  ✅ Video ID: $VIDEO_ID"
+                
+                # Try formats in order of quality
+                for fmt in 301 300 best; do
+                  STREAM_URL=$(yt-dlp --cookies cookies.txt -f $fmt -g "https://youtube.com/watch?v=$VIDEO_ID" 2>/dev/null | head -1)
+                  if [ -n "$STREAM_URL" ]; then
+                    echo "    ✅ Got format $fmt"
+                    break
+                  fi
+                done
+              else
+                echo "  ❌ Could not get video ID"
+              fi
+            fi
+
+            if [ -n "$STREAM_URL" ]; then
+              echo "  ✅ Got direct stream URL!"
+              ACTIVE=$((ACTIVE + 1))
+              echo "" >> streams.m3u8
+              echo "#EXTINF:-1,$NAME (Live)" >> streams.m3u8
+              echo "$STREAM_URL" >> streams.m3u8
+            else
+              echo "  ⚠️ Using channel URL as fallback"
+              echo "" >> streams.m3u8
+              echo "#EXTINF:-1,$NAME (via YouTube)" >> streams.m3u8
+              echo "$URL" >> streams.m3u8
+            fi
+
+            sleep 1
+
+          done < streams.txt
+
+          echo "" >> streams.m3u8
+          echo "# Summary: $ACTIVE/$TOTAL direct streams" >> streams.m3u8
+          echo "# Updated: $(date -u)" >> streams.m3u8
+          
+          # Clean up
+          rm -f cookies.txt
           
           echo ""
-          echo "📄 Checking cookies.txt:"
-          if [ -f "cookies.txt" ]; then
-            echo "✅ cookies.txt exists"
-            echo "File size: $(wc -l < cookies.txt) lines"
-            echo "First 2 lines:"
-            head -2 cookies.txt
-          else
-            echo "❌ cookies.txt not found"
-            exit 1
+          echo "📊 Summary: $ACTIVE/$TOTAL streams have direct URLs"
+
+      - name: Show playlist
+        run: |
+          echo ""
+          echo "📄 Generated streams.m3u8:"
+          echo "=========================="
+          head -20 streams.m3u8
+
+      - name: Commit and push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add streams.m3u8
+          
+          if git diff --staged --quiet; then
+            echo "ℹ️ No changes to commit"
+            exit 0
           fi
           
-          echo ""
-          echo "🔑 Testing yt-dlp with cookies..."
-          yt-dlp --cookies cookies.txt --verbose --simulate "https://www.youtube.com/@AriseNewsChannel/live" 2>&1
-          
-          echo ""
-          echo "✅ Debug complete"
-
-      - name: Test with video ID
-        run: |
-          echo ""
-          echo "🎬 Testing with known video ID..."
-          # Try the video ID we know from your local test
-          yt-dlp --cookies cookies.txt --verbose -F "https://www.youtube.com/watch?v=x4wL-fWyhI0" 2>&1
+          git commit -m "🔄 Update playlist [$(date -u +%H:%M)]"
+          git pull --rebase origin main || true
+          git push origin main
+          echo "✅ Playlist updated and pushed"
