@@ -1,5 +1,5 @@
-name: YouTube Live M3U8 Generator - DIAGNOSTIC
-run-name: Running diagnostics 🩺
+name: YouTube Live M3U8 Generator - ULTRA DIAGNOSTIC
+run-name: Testing basics 🩺
 
 on:
   workflow_dispatch:
@@ -11,37 +11,30 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Install yt-dlp
-        run: pip install --upgrade yt-dlp
-
-      - name: Create cookies file
+      - name: Test 1 - Check if secret exists
         env:
           COOKIES: ${{ secrets.COOKIES_TXT }}
         run: |
           if [ -n "$COOKIES" ]; then
-            echo "$COOKIES" > cookies.txt
-            echo "✅ Cookies file created ($(wc -l < cookies.txt) lines)"
+            echo "✅ Secret exists and has content"
+            echo "First 50 characters: ${COOKIES:0:50}"
           else
-            echo "❌ No cookies secret found"
+            echo "❌ Secret is empty or doesn't exist"
             exit 1
           fi
 
-      - name: Diagnose
+      - name: Test 2 - Create test file
         run: |
-          set -x  # Print each command
-          echo "🔍 Starting diagnostics..."
-          
-          echo "Test 1: Network connectivity"
-          curl -I https://www.youtube.com -L --max-time 10
-          
-          echo ""
-          echo "Test 2: yt-dlp version"
-          yt-dlp --version
-          
-          echo ""
-          echo "Test 3: yt-dlp with cookies (verbose)"
-          yt-dlp --cookies cookies.txt --verbose --dump-json "https://www.youtube.com/@AriseNewsChannel/live" 2>&1
-          
-          echo ""
-          echo "Test 4: First 5 lines of cookies.txt"
-          head -5 cookies.txt
+          echo "This is a test file" > test.txt
+          echo "✅ Test file created"
+          ls -la test.txt
+
+      - name: Test 3 - Try creating cookies file
+        env:
+          COOKIES: ${{ secrets.COOKIES_TXT }}
+        run: |
+          echo "$COOKIES" > cookies.txt
+          echo "✅ cookies.txt created"
+          echo "File size: $(wc -l < cookies.txt) lines"
+          echo "First line:"
+          head -1 cookies.txt
