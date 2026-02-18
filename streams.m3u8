@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: Wed Feb 18 18:03:09 UTC 2026
+# Generated: Wed Feb 18 18:04:03 UTC 2026
 
 
 #EXTINF:-1,AriseNewsChannel
@@ -11,4 +11,16 @@ https://www.youtube.com/@channelstv
 #EXTINF:-1,NewsCentralTV
 https://www.youtube.com/@NewsCentralTV
 
-# Updated: Wed Feb 18 18:03:09 UTC 2026
+#EXTINF:-1,TVCNewsNigeria
+https://www.youtube.com/@TVCNewsNigeria
+
+#EXTINF:-1,ntanews360
+https://www.youtube.com/@ntanews360
+
+#EXTINF:-1,AIT_Online
+https://www.youtube.com/@AIT_Online
+
+#EXTINF:-1,PlusTVAfrica
+https://www.youtube.com/@PlusTVAfrica
+
+# Updated: Wed Feb 18 18:04:03 UTC 2026
