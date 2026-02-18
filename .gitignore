@@ -4,3 +4,4 @@ venv/
 .DS_Store
 *.log
 .env
+cookies.txt
