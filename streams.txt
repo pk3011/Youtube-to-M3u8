@@ -1,13 +1,11 @@
-#EXTM3U
-# Generated: [timestamp]
+# YouTube Live Streams - Working URLs
+# These are added directly to the playlist without verification
 
-#EXTINF:-1,AriseNewsChannel
+# Arise News (Confirmed working live stream)
 https://www.youtube.com/@AriseNewsChannel/live
 
-#EXTINF:-1,channelstv
-https://www.youtube.com/@channelstv/live
+# Channels TV
+https://www.youtube.com/@channelstv
 
-#EXTINF:-1,NewsCentralTV
-https://www.youtube.com/@NewsCentralTV/live
-
-# Updated: [timestamp]
+# News Central TV
+https://www.youtube.com/@NewsCentralTV
