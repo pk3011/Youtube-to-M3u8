@@ -1,5 +1,5 @@
 name: YouTube Live M3U8 Generator
-run-name: Generate playlist with Cloudflare Proxy 🎬
+run-name: Generate HD Playlist 🎬
 
 on:
   workflow_dispatch:
@@ -67,7 +67,7 @@ jobs:
           echo "$COOKIES" > cookies.txt
           echo "✅ Cookies loaded ($(wc -l < cookies.txt) lines)"
 
-      - name: Generate playlist with stream extraction
+      - name: Generate HD playlist
         run: |
           cat > generate.py << 'PYTHON_EOF'
           import yt_dlp
@@ -78,12 +78,10 @@ jobs:
           import sys
           from datetime import datetime, timezone
 
-          # ===== CONFIGURATION =====
           PROXY_BASE = "https://siteproxy.chidex4k43342.workers.dev/yourtube/"
-          # =========================
 
           def get_stream_url(url, cookies_file):
-              """Get the actual stream URL using yt-dlp with proper extraction"""
+              """Get the best quality stream URL (prioritizes 1080p/720p over 480p)"""
               ydl_opts = {
                   'cookies': cookies_file,
                   'quiet': True,
@@ -93,7 +91,6 @@ jobs:
               
               try:
                   with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-                      # Get full info, not just ID
                       info = ydl.extract_info(url, download=False)
                       
                       if not info:
@@ -107,22 +104,39 @@ jobs:
                       live_status = info.get('live_status', '')
                       
                       if not (is_live or live_status == 'is_live'):
-                          print(f"  ⚠️ Not currently live (status: {live_status})")
+                          print(f"  ⚠️ Not currently live")
                           return None, video_id
                       
-                      # Try to get the best m3u8 format
                       formats = info.get('formats', [])
+                      
+                      # Priority 1: Format 301 (1080p60) - best quality
                       for fmt in formats:
-                          protocol = fmt.get('protocol', '')
-                          if protocol in ['m3u8', 'm3u8_native', 'http_dash_segments'] and fmt.get('url'):
-                              print(f"  ✅ Found {protocol} format")
+                          if fmt.get('format_id') == '301' and fmt.get('url'):
+                              height = fmt.get('height', '1080')
+                              fps = fmt.get('fps', '60')
+                              print(f"  ✅ 1080p{fmt.get('fps', '')} stream found!")
                               return fmt['url'], video_id
                       
-                      # If no m3u8, try best format
-                      if info.get('url'):
-                          return info['url'], video_id
+                      # Priority 2: Format 300 (720p60) - good quality
+                      for fmt in formats:
+                          if fmt.get('format_id') == '300' and fmt.get('url'):
+                              print(f"  ✅ 720p60 stream found!")
+                              return fmt['url'], video_id
                       
-                      print(f"  ⚠️ No stream URL found")
+                      # Priority 3: Format 94 (480p) - fallback
+                      for fmt in formats:
+                          if fmt.get('format_id') == '94' and fmt.get('url'):
+                              print(f"  ⚠️ Only 480p available")
+                              return fmt['url'], video_id
+                      
+                      # Priority 4: Any m3u8 format
+                      for fmt in formats:
+                          protocol = fmt.get('protocol', '')
+                          if protocol in ['m3u8', 'm3u8_native'] and fmt.get('url'):
+                              height = fmt.get('height', 'unknown')
+                              print(f"  ✅ Found {height}p stream")
+                              return fmt['url'], video_id
+                      
                       return None, video_id
                           
               except Exception as e:
@@ -150,6 +164,8 @@ jobs:
           ]
 
           active = 0
+          quality_stats = {"1080p": 0, "720p": 0, "480p": 0, "other": 0}
+
           for i, line in enumerate(lines, 1):
               print(f"\n📺 [{i}/{len(lines)}] Processing: {line}")
               
@@ -164,53 +180,64 @@ jobs:
               
               if stream_url:
                   active += 1
-                  print(f"  ✅ SUCCESS: Got direct stream URL")
-                  m3u8.append(f'#EXTINF:-1 tvg-name="{channel_name}" group-title="YouTube Live",{channel_name} (Live)')
-                  m3u8.append(stream_url)  # Direct URL works in VLC
+                  
+                  # Try to determine quality for stats
+                  if '301' in stream_url or '1080' in stream_url:
+                      quality_stats["1080p"] += 1
+                      quality_tag = "1080p"
+                  elif '300' in stream_url or '720' in stream_url:
+                      quality_stats["720p"] += 1
+                      quality_tag = "720p"
+                  elif '94' in stream_url or '480' in stream_url:
+                      quality_stats["480p"] += 1
+                      quality_tag = "480p"
+                  else:
+                      quality_stats["other"] += 1
+                      quality_tag = "HD"
+                  
+                  print(f"  ✅ SUCCESS: {quality_tag} stream")
+                  m3u8.append(f'#EXTINF:-1 tvg-name="{channel_name}" group-title="YouTube Live",{channel_name} (Live - {quality_tag})')
+                  m3u8.append(stream_url)
                   m3u8.append("")
               elif video_id:
-                  # Fallback to proxied YouTube page
                   print(f"  ⚠️ Using proxied YouTube page")
                   proxied_url = PROXY_BASE + f"https://www.youtube.com/watch?v={video_id}"
                   m3u8.append(f'#EXTINF:-1 tvg-name="{channel_name}" group-title="YouTube Live",{channel_name} (Live - Proxy)')
                   m3u8.append(proxied_url)
                   m3u8.append("")
               else:
-                  print(f"  ❌ Failed - using original URL as fallback")
+                  print(f"  ❌ Failed - using original URL")
                   m3u8.append(f'#EXTINF:-1 tvg-name="{channel_name}" group-title="YouTube Live",{channel_name} (YouTube)')
                   m3u8.append(line)
                   m3u8.append("")
 
-          # Add summary
+          # Add summary with quality stats
           m3u8.extend([
               "",
               f"# Summary: {active}/{len(lines)} streams active",
+              f"# Quality: {quality_stats['1080p']}x1080p, {quality_stats['720p']}x720p, {quality_stats['480p']}x480p",
               f"# Updated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}"
           ])
 
-          # Write playlist
           with open('streams.m3u8', 'w') as f:
               f.write('\n'.join(m3u8))
 
           print(f"\n{'='*50}")
           print(f"📊 FINAL: {active}/{len(lines)} streams active")
+          print(f"📊 Quality breakdown: 1080p:{quality_stats['1080p']} 720p:{quality_stats['720p']} 480p:{quality_stats['480p']}")
           print(f"{'='*50}")
 
           PYTHON_EOF
 
           python generate.py
 
-      - name: Fix git conflicts (ALWAYS RUNS)
+      - name: Fix git conflicts
         run: |
-          echo "🔧 Fixing git conflict markers..."
-          # Remove ALL conflict markers regardless of content
           sed -i '/^<<<<<<< /d' streams.m3u8 2>/dev/null || true
           sed -i '/^=======/d' streams.m3u8 2>/dev/null || true
           sed -i '/^>>>>>>> /d' streams.m3u8 2>/dev/null || true
-          # Remove any duplicate lines
           awk '!seen[$0]++' streams.m3u8 > streams_clean.m3u8 2>/dev/null || true
           mv streams_clean.m3u8 streams.m3u8 2>/dev/null || true
-          echo "✅ Conflicts fixed"
 
       - name: Show playlist preview
         run: |
@@ -226,11 +253,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Force add and commit
           git add -f streams.m3u8
-          git commit -m "🔄 Update playlist [$(date -u +%H:%M)]" || true
-          
-          # Force push (overwrites remote)
+          git commit -m "🔄 Update HD playlist [$(date -u +%H:%M)]" || true
           git push --force origin main
           echo "✅ Playlist updated"
