@@ -1,24 +1,24 @@
 #EXTM3U
-# Generated: 2026-02-23 19:59:44 UTC
+# Generated: 2026-02-23 20:47:38 UTC
 # Total channels: 8
 # Proxy: MediaFlow via ngrok
 
 #EXTINF:-1 tvg-name="AriseNewsChannel" group-title="NIGERIA",AriseNewsChannel (Live - HD)
-https://adrian-stannous-isla.ngrok-free.dev/proxy/stream?api_password=your_secure_password_here&h_referer=https://youtube.com/&d=https://www.youtube.com/watch?v=4uHZdlX-DT4
+https://adrian-stannous-isla.ngrok-free.dev/proxy/stream?api_password=9UHSRMWK5H%1!&h_referer=https://youtube.com/&d=https://www.youtube.com/watch?v=4uHZdlX-DT4
 #EXTINF:-1 tvg-name="TVCNewsNigeria" group-title="NIGERIA",TVCNewsNigeria (Live - HD)
-https://adrian-stannous-isla.ngrok-free.dev/proxy/stream?api_password=your_secure_password_here&h_referer=https://youtube.com/&d=https://www.youtube.com/watch?v=b-Yzp0l8cAM
+https://adrian-stannous-isla.ngrok-free.dev/proxy/stream?api_password=9UHSRMWK5H%1!&h_referer=https://youtube.com/&d=https://www.youtube.com/watch?v=b-Yzp0l8cAM
 #EXTINF:-1 tvg-name="ChannelsTelevision" group-title="NIGERIA",ChannelsTelevision (Live - HD)
-https://adrian-stannous-isla.ngrok-free.dev/proxy/stream?api_password=your_secure_password_here&h_referer=https://youtube.com/&d=https://www.youtube.com/watch?v=d4zDorDl5UE
+https://adrian-stannous-isla.ngrok-free.dev/proxy/stream?api_password=9UHSRMWK5H%1!&h_referer=https://youtube.com/&d=https://www.youtube.com/watch?v=d4zDorDl5UE
 #EXTINF:-1 tvg-name="NewsCentralAfrica" group-title="NIGERIA",NewsCentralAfrica (Live - HD)
-https://adrian-stannous-isla.ngrok-free.dev/proxy/stream?api_password=your_secure_password_here&h_referer=https://youtube.com/&d=https://www.youtube.com/watch?v=puZ8rz7_4UY
+https://adrian-stannous-isla.ngrok-free.dev/proxy/stream?api_password=9UHSRMWK5H%1!&h_referer=https://youtube.com/&d=https://www.youtube.com/watch?v=puZ8rz7_4UY
 #EXTINF:-1 tvg-name="NTALive" group-title="NIGERIA",NTALive (Live - HD)
-https://adrian-stannous-isla.ngrok-free.dev/proxy/stream?api_password=your_secure_password_here&h_referer=https://youtube.com/&d=https://www.youtube.com/watch?v=pn0I0Hxgv3g
+https://adrian-stannous-isla.ngrok-free.dev/proxy/stream?api_password=9UHSRMWK5H%1!&h_referer=https://youtube.com/&d=https://www.youtube.com/watch?v=pn0I0Hxgv3g
 #EXTINF:-1 tvg-name="SilverbirdN24Live" group-title="NIGERIA",SilverbirdN24Live (Live - HD)
-https://adrian-stannous-isla.ngrok-free.dev/proxy/stream?api_password=your_secure_password_here&h_referer=https://youtube.com/&d=https://www.youtube.com/watch?v=FKQV9ArQvaM
+https://adrian-stannous-isla.ngrok-free.dev/proxy/stream?api_password=9UHSRMWK5H%1!&h_referer=https://youtube.com/&d=https://www.youtube.com/watch?v=FKQV9ArQvaM
 #EXTINF:-1 tvg-name="AITLivestream1" group-title="NIGERIA",AITLivestream1 (Error)
 https://www.youtube.com/@AITLivestream1/live
 #EXTINF:-1 tvg-name="VOP903FM" group-title="NIGERIA",VOP903FM (Error)
 https://www.youtube.com/@VOP903FM/live
 # Summary: 6/8 streams active
 # Quality: 1080p:0 720p:0 480p:0
-# Updated: 2026-02-23 20:01:02 UTC
+# Updated: 2026-02-23 20:48:59 UTC
