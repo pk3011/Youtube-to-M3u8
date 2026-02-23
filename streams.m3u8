@@ -1,17 +1,17 @@
 #EXTM3U
-# Generated: 2026-02-22 23:57:17 UTC
+# Generated: 2026-02-23 00:29:54 UTC
 # Total channels: 5
 
-#EXTINF:-1 tvg-name="AriseNewsChannel" group-title="NIGERIA",AriseNewsChannel (HD)
-https://siteproxy.chidex4k43342.workers.dev/yourtube/4uHZdlX-DT4
-#EXTINF:-1 tvg-name="TVCNewsNigeria" group-title="NIGERIA",TVCNewsNigeria (HD)
-https://siteproxy.chidex4k43342.workers.dev/yourtube/b-Yzp0l8cAM
-#EXTINF:-1 tvg-name="ChannelsTelevision" group-title="NIGERIA",ChannelsTelevision (HD)
-https://siteproxy.chidex4k43342.workers.dev/yourtube/d4zDorDl5UE
-#EXTINF:-1 tvg-name="NewsCentralAfrica" group-title="NIGERIA",NewsCentralAfrica (HD)
-https://siteproxy.chidex4k43342.workers.dev/yourtube/R2YPW8eY1O0
-#EXTINF:-1 tvg-name="NTALive" group-title="NIGERIA",NTALive (HD)
-https://siteproxy.chidex4k43342.workers.dev/yourtube/oJtZSgLB7GM
-# Summary: 5/5 streams active
-# Quality: 1080p:0 720p:0 480p:0
-# Updated: 2026-02-22 23:58:06 UTC
+#EXTINF:-1 tvg-name="AriseNewsChannel" group-title="YouTube Live",AriseNewsChannel (YouTube)
+https://www.youtube.com/@AriseNewsChannel/live
+#EXTINF:-1 tvg-name="TVCNewsNigeria" group-title="YouTube Live",TVCNewsNigeria (YouTube)
+https://www.youtube.com/@TVCNewsNigeria/live
+#EXTINF:-1 tvg-name="ChannelsTelevision" group-title="YouTube Live",ChannelsTelevision (YouTube)
+https://www.youtube.com/@ChannelsTelevision/live
+#EXTINF:-1 tvg-name="NewsCentralAfrica" group-title="YouTube Live",NewsCentralAfrica (YouTube)
+https://www.youtube.com/@NewsCentralAfrica/live
+#EXTINF:-1 tvg-name="NTALive" group-title="YouTube Live",NTALive (YouTube)
+https://www.youtube.com/@NTALive/live
+# Summary: 0/5 streams active
+# Quality: 0x1080p, 0x720p, 0x480p
+# Updated: 2026-02-23 00:30:37 UTC
