@@ -80,8 +80,9 @@ jobs:
           from datetime import datetime, timezone
 
           # ===== CONFIGURATION =====
-          # Your ngrok/MediaFlow proxy URL - TESTED WORKING
-          PROXY_BASE = "https://adrian-stannous-isla.ngrok-free.dev/proxy/stream?api_password=your_secure_password_here&h_referer=https://youtube.com/&d=https://www.youtube.com/watch?v="
+          # Your MediaFlow Proxy URL (via ngrok)
+          API_PASSWORD = "your_secure_password_here"  # MUST match your config.toml
+          PROXY_BASE = f"https://adrian-stannous-isla.ngrok-free.dev/proxy/stream?api_password={API_PASSWORD}&h_referer=https://youtube.com/&d=https://www.youtube.com/watch?v="
           # =========================
 
           def get_stream_url(url, cookies_file):
