@@ -1,8 +1,9 @@
-active=8
+active=7
 total=8
 quality_1080p=4
-quality_720p=3
+quality_720p=2
 quality_480p=1
-active_channels=AriseNewsChannel,TVCNewsNigeria,ChannelsTelevision,NewsCentralAfrica,NTALive,SilverbirdN24Live,AITLivestream1,VOP903FM
-offline_channels=
+streamlink_working=7
+active_channels=AriseNewsChannel,TVCNewsNigeria,NewsCentralAfrica,NTALive,SilverbirdN24Live,AITLivestream1,VOP903FM
+offline_channels=ChannelsTelevision
 error_channels=
