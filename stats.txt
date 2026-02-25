@@ -1,8 +1,8 @@
-active=0
+active=10
 total=12
-quality_1080p=0
-quality_720p=0
+quality_1080p=6
+quality_720p=4
 quality_480p=0
-active_channels=
-offline_channels=
-error_channels=AriseNewsChannel,TVCNewsNigeria,ChannelsTelevision,NewsCentralAfrica,NTALive,SilverbirdN24Live,AITLivestream1,VOP903FM,myjoyonline,TV3Ghana,parliamentofghana816,AdomTVGH
+active_channels=AriseNewsChannel,TVCNewsNigeria,ChannelsTelevision,NewsCentralAfrica,NTALive,SilverbirdN24Live,VOP903FM,myjoyonline,TV3Ghana,AdomTVGH
+offline_channels=AITLivestream1,parliamentofghana816
+error_channels=

@@ -1,38 +1,39 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Generated: 2026-02-25 07:02:42 UTC
+# Generated: 2026-02-25 08:28:50 UTC
 # Refresh: Every 6 hours via GitHub Actions
 # GitHub Pages: https://uticap.github.io/Youtube-to-M3u8/streams.m3u8
 # Total channels: 12
+# NOTE: Use with Streamlink: streamlink --player=vlc THIS_URL best
 
-#EXTINF:-1 tvg-name="AriseNewsChannel" group-title="Nigeria News",AriseNewsChannel [Error]
-https://www.youtube.com/@AriseNewsChannel/live
-#EXTINF:-1 tvg-name="TVCNewsNigeria" group-title="Nigeria News",TVCNewsNigeria [Error]
-https://www.youtube.com/@TVCNewsNigeria/live
-#EXTINF:-1 tvg-name="ChannelsTelevision" group-title="Nigeria News",ChannelsTelevision [Error]
-https://www.youtube.com/@ChannelsTelevision/live
-#EXTINF:-1 tvg-name="NewsCentralAfrica" group-title="Nigeria News",NewsCentralAfrica [Error]
-https://www.youtube.com/@NewsCentralAfrica/live
-#EXTINF:-1 tvg-name="NTALive" group-title="Nigeria News",NTALive [Error]
-https://www.youtube.com/@NTALive/live
-#EXTINF:-1 tvg-name="SilverbirdN24Live" group-title="Nigeria News",SilverbirdN24Live [Error]
-https://www.youtube.com/@SilverbirdN24Live/live
-#EXTINF:-1 tvg-name="AITLivestream1" group-title="Nigeria News",AITLivestream1 [Error]
-https://www.youtube.com/@AITLivestream1/live
-#EXTINF:-1 tvg-name="VOP903FM" group-title="Nigeria News",VOP903FM [Error]
-https://www.youtube.com/@VOP903FM/live
-#EXTINF:-1 tvg-name="myjoyonline" group-title="Nigeria News",myjoyonline [Error]
-https://www.youtube.com/@myjoyonline/live
-#EXTINF:-1 tvg-name="TV3Ghana" group-title="Nigeria News",TV3Ghana [Error]
-https://www.youtube.com/@TV3Ghana/live
-#EXTINF:-1 tvg-name="parliamentofghana816" group-title="Nigeria News",parliamentofghana816 [Error]
-https://www.youtube.com/@parliamentofghana816/live
-#EXTINF:-1 tvg-name="AdomTVGH" group-title="Nigeria News",AdomTVGH [Error]
-https://www.youtube.com/@AdomTVGH/live
-# Summary: 0/12 streams active
-# Quality: 0x1080p, 0x720p, 0x480p
-# Offline: 0
-# Errors: 12
-# Active channels: None
-# Next refresh: 2026-02-25 13:04 UTC
-# Updated: 2026-02-25 07:04:19 UTC
+#EXTINF:-1 tvg-id="4uHZdlX-DT4" tvg-name="AriseNewsChannel" group-title="Nigeria News",AriseNewsChannel [1080p60]
+https://www.youtube.com/watch?v=4uHZdlX-DT4
+#EXTINF:-1 tvg-id="b-Yzp0l8cAM" tvg-name="TVCNewsNigeria" group-title="Nigeria News",TVCNewsNigeria [1080p]
+https://www.youtube.com/watch?v=b-Yzp0l8cAM
+#EXTINF:-1 tvg-id="d4zDorDl5UE" tvg-name="ChannelsTelevision" group-title="Nigeria News",ChannelsTelevision [720p]
+https://www.youtube.com/watch?v=d4zDorDl5UE
+#EXTINF:-1 tvg-id="puZ8rz7_4UY" tvg-name="NewsCentralAfrica" group-title="Nigeria News",NewsCentralAfrica [1080p60]
+https://www.youtube.com/watch?v=puZ8rz7_4UY
+#EXTINF:-1 tvg-id="tkazr7YzME8" tvg-name="NTALive" group-title="Nigeria News",NTALive [1080p60]
+https://www.youtube.com/watch?v=tkazr7YzME8
+#EXTINF:-1 tvg-id="aTB3fGbj_hw" tvg-name="SilverbirdN24Live" group-title="Nigeria News",SilverbirdN24Live [720p]
+https://www.youtube.com/watch?v=aTB3fGbj_hw
+#EXTINF:-1 tvg-id="AITLivestre" tvg-name="AITLivestream1" group-title="Nigeria News",AITLivestream1 [Offline]
+https://www.youtube.com/watch?v=AITLivestre
+#EXTINF:-1 tvg-id="31TjPgjDDGg" tvg-name="VOP903FM" group-title="Nigeria News",VOP903FM [720p60]
+https://www.youtube.com/watch?v=31TjPgjDDGg
+#EXTINF:-1 tvg-id="n4ThGAoXtyE" tvg-name="myjoyonline" group-title="Nigeria News",myjoyonline [1080p]
+https://www.youtube.com/watch?v=n4ThGAoXtyE
+#EXTINF:-1 tvg-id="1pOReDAmT-Y" tvg-name="TV3Ghana" group-title="Nigeria News",TV3Ghana [720p]
+https://www.youtube.com/watch?v=1pOReDAmT-Y
+#EXTINF:-1 tvg-id="parliamento" tvg-name="parliamentofghana816" group-title="Nigeria News",parliamentofghana816 [Offline]
+https://www.youtube.com/watch?v=parliamento
+#EXTINF:-1 tvg-id="aUCB1AWfubU" tvg-name="AdomTVGH" group-title="Nigeria News",AdomTVGH [1080p]
+https://www.youtube.com/watch?v=aUCB1AWfubU
+# Summary: 10/12 streams active
+# Quality: 6x1080p, 4x720p, 0x480p
+# Offline: 2
+# Errors: 0
+# Active channels: AriseNewsChannel, TVCNewsNigeria, ChannelsTelevision, NewsCentralAfrica, NTALive, SilverbirdN24Live, VOP903FM, myjoyonline, TV3Ghana, AdomTVGH
+# Next refresh: 2026-02-25 14:30 UTC
+# Updated: 2026-02-25 08:30:18 UTC

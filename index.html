@@ -26,14 +26,8 @@
             padding: 40px;
             text-align: center;
         }
-        .header h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-        }
-        .header p {
-            font-size: 1.2em;
-            opacity: 0.95;
-        }
+        .header h1 { font-size: 2.5em; margin-bottom: 10px; }
+        .header p { font-size: 1.2em; opacity: 0.95; }
         .content { padding: 40px; }
         .stats-grid {
             display: grid;
@@ -54,25 +48,7 @@
             color: #4CAF50;
             margin-bottom: 5px;
         }
-        .stat-label {
-            color: #666;
-            font-size: 0.9em;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-        }
-        .playlist-section {
-            background: #f8f9fa;
-            padding: 30px;
-            border-radius: 12px;
-            margin-bottom: 30px;
-        }
-        .playlist-section h2 {
-            color: #333;
-            margin-bottom: 20px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
+        .stat-label { color: #666; font-size: 0.9em; text-transform: uppercase; }
         .url-box {
             background: white;
             padding: 15px;
@@ -83,11 +59,7 @@
             align-items: center;
             margin-bottom: 15px;
         }
-        .url-box code {
-            word-break: break-all;
-            color: #333;
-            font-size: 0.95em;
-        }
+        .url-box code { word-break: break-all; color: #333; }
         .btn {
             background: #4CAF50;
             color: white;
@@ -97,25 +69,10 @@
             display: inline-flex;
             align-items: center;
             gap: 8px;
-            transition: background 0.3s;
             border: none;
             cursor: pointer;
-            font-size: 1em;
         }
         .btn:hover { background: #45a049; }
-        .btn-secondary {
-            background: #2196F3;
-        }
-        .btn-secondary:hover { background: #0b7dda; }
-        .btn-outline {
-            background: transparent;
-            border: 2px solid #4CAF50;
-            color: #4CAF50;
-        }
-        .btn-outline:hover {
-            background: #4CAF50;
-            color: white;
-        }
         .channels-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -129,37 +86,13 @@
             border-left: 4px solid #4CAF50;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
-        .channel-name {
-            font-weight: bold;
-            color: #333;
-            margin-bottom: 5px;
-        }
-        .channel-quality {
-            font-size: 0.85em;
-            color: #4CAF50;
-        }
+        .channel-name { font-weight: bold; color: #333; }
         .footer {
             background: #f8f9fa;
             padding: 30px;
             text-align: center;
             color: #666;
             border-top: 1px solid #e0e0e0;
-        }
-        .badge {
-            display: inline-block;
-            padding: 4px 8px;
-            border-radius: 4px;
-            font-size: 0.8em;
-            font-weight: bold;
-            margin-left: 8px;
-        }
-        .badge-success { background: #d4edda; color: #155724; }
-        .badge-warning { background: #fff3cd; color: #856404; }
-        .badge-danger { background: #f8d7da; color: #721c24; }
-        @media (max-width: 768px) {
-            .header h1 { font-size: 1.8em; }
-            .content { padding: 20px; }
-            .stats-grid { grid-template-columns: 1fr; }
         }
     </style>
 </head>
@@ -169,150 +102,68 @@
             <h1>🇳🇬 Nigeria News Streams</h1>
             <p>Live YouTube streams • Updated every 6 hours</p>
         </div>
-        
         <div class="content">
-            <!-- Statistics will be loaded via JavaScript -->
             <div class="stats-grid" id="stats-container">
-                <div class="stat-card">
-                    <div class="stat-value">-</div>
-                    <div class="stat-label">Active Streams</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-value">-</div>
-                    <div class="stat-label">Total Channels</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-value">-</div>
-                    <div class="stat-label">1080p Streams</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-value">-</div>
-                    <div class="stat-label">720p Streams</div>
-                </div>
+                <div class="stat-card"><div class="stat-value">-</div><div class="stat-label">Active</div></div>
+                <div class="stat-card"><div class="stat-value">-</div><div class="stat-label">Total</div></div>
+                <div class="stat-card"><div class="stat-value">-</div><div class="stat-label">1080p</div></div>
+                <div class="stat-card"><div class="stat-value">-</div><div class="stat-label">720p</div></div>
             </div>
-
-            <!-- Playlist URL -->
             <div class="playlist-section">
-                <h2>📋 M3U8 Playlist URL</h2>
+                <h2>📋 M3U8 Playlist</h2>
                 <div class="url-box">
                     <code id="playlist-url">https://uticap.github.io/Youtube-to-M3u8/streams.m3u8</code>
-                    <button class="btn btn-outline" onclick="copyUrl()">📋 Copy</button>
+                    <button class="btn" onclick="copyUrl()">📋 Copy</button>
                 </div>
-                <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-                    <a href="streams.m3u8" class="btn">▶️ Open Playlist</a>
-                    <a href="https://github.com/uticap/Youtube-to-M3u8" class="btn btn-secondary" target="_blank">📂 View Repository</a>
-                </div>
+                <a href="streams.m3u8" class="btn">▶️ Open Playlist</a>
             </div>
-
-            <!-- Live Channels - Will be populated by JavaScript -->
             <div class="playlist-section">
                 <h2>📡 Live Channels</h2>
                 <div class="channels-grid" id="live-channels"></div>
-                
-                <h2 style="margin-top: 30px;">⚫ Offline Channels</h2>
+                <h2 style="margin-top: 30px;">⚫ Offline</h2>
                 <div class="channels-grid" id="offline-channels"></div>
-                
-                <h2 style="margin-top: 30px;">❌ Error Channels</h2>
+                <h2 style="margin-top: 30px;">❌ Errors</h2>
                 <div class="channels-grid" id="error-channels"></div>
             </div>
-
-            <!-- How to Use -->
-            <div class="playlist-section">
-                <h2>🎬 How to Use</h2>
-                <div style="display: grid; gap: 20px;">
-                    <div>
-                        <h3>VLC Media Player</h3>
-                        <p>1. Open VLC<br>2. Press <code>Ctrl+N</code> (or <code>Cmd+N</code> on Mac)<br>3. Paste the playlist URL above<br>4. Click "Play"</p>
-                    </div>
-                    <div>
-                        <h3>Streamlink (Command Line)</h3>
-                        <p><code>streamlink --player=vlc "https://uticap.github.io/Youtube-to-M3u8/streams.m3u8" best</code></p>
-                    </div>
-                    <div>
-                        <h3>Mobile (Android/iOS)</h3>
-                        <p>Use VLC for Android/iOS or any IPTV player that supports M3U8 playlists.</p>
-                    </div>
-                </div>
-            </div>
         </div>
-        
         <div class="footer">
-            <p>🔄 Refreshes every 6 hours via GitHub Actions</p>
-            <p>🔒 Repository is private, but playlist is public via GitHub Pages</p>
-            <p>⏰ Last updated: <span id="last-updated">$(date -u '+%Y-%m-%d %H:%M UTC')</span></p>
+            <p>🔄 Next refresh in ~6 hours</p>
+            <p>🔒 Repository private • Playlist public via GitHub Pages</p>
+            <p>⏰ <span id="last-updated"></span></p>
         </div>
     </div>
-
     <script>
         function copyUrl() {
             navigator.clipboard.writeText('https://uticap.github.io/Youtube-to-M3u8/streams.m3u8');
-            alert('URL copied to clipboard!');
+            alert('URL copied! Use with: streamlink --player=vlc THIS_URL best');
         }
-    
-        // Fetch stats from stats.txt
-        fetch('stats.txt')
-            .then(response => response.text())
-            .then(data => {
-                const stats = {};
-                data.split('\n').forEach(line => {
-                    const [key, value] = line.split('=');
-                    if (key && value) stats[key] = value;
-                });
-                
-                // Update stats display
-                document.querySelector('#stats-container').innerHTML = `
-                    <div class="stat-card">
-                        <div class="stat-value">${stats.active || '0'}</div>
-                        <div class="stat-label">Active Streams</div>
-                    </div>
-                    <div class="stat-card">
-                        <div class="stat-value">${stats.total || '0'}</div>
-                        <div class="stat-label">Total Channels</div>
-                    </div>
-                    <div class="stat-card">
-                        <div class="stat-value">${stats.quality_1080p || '0'}</div>
-                        <div class="stat-label">1080p Streams</div>
-                    </div>
-                    <div class="stat-card">
-                        <div class="stat-value">${stats.quality_720p || '0'}</div>
-                        <div class="stat-label">720p Streams</div>
-                    </div>
-                `;
-                
-                // Populate live channels
-                const liveChannels = stats.active_channels ? stats.active_channels.split(',') : [];
-                const liveHtml = liveChannels.map(ch => `
-                    <div class="channel-card">
-                        <div class="channel-name">${ch}</div>
-                        <div class="channel-quality">🔴 LIVE</div>
-                    </div>
-                `).join('');
-                document.getElementById('live-channels').innerHTML = liveHtml || '<p>No live channels</p>';
-                
-                // Populate offline channels
-                const offlineChannels = stats.offline_channels ? stats.offline_channels.split(',') : [];
-                const offlineHtml = offlineChannels.map(ch => `
-                    <div class="channel-card" style="border-left-color: #999;">
-                        <div class="channel-name">${ch}</div>
-                        <div class="channel-quality" style="color: #999;">⚫ Offline</div>
-                    </div>
-                `).join('');
-                document.getElementById('offline-channels').innerHTML = offlineHtml || '<p>No offline channels</p>';
-                
-                // Populate error channels
-                const errorChannels = stats.error_channels ? stats.error_channels.split(',') : [];
-                const errorHtml = errorChannels.map(ch => `
-                    <div class="channel-card" style="border-left-color: #dc3545;">
-                        <div class="channel-name">${ch}</div>
-                        <div class="channel-quality" style="color: #dc3545;">❌ Error</div>
-                    </div>
-                `).join('');
-                document.getElementById('error-channels').innerHTML = errorHtml || '<p>No error channels</p>';
-            })
-            .catch(error => {
-                console.error('Error loading stats:', error);
-                document.getElementById('stats-container').innerHTML = '<p>Error loading statistics</p>';
-            });
+        fetch('stats.txt').then(r=>r.text()).then(data=>{
+            const stats = {};
+            data.split('\n').forEach(l=>{let[k,v]=l.split('=');if(k&&v)stats[k]=v;});
+            document.getElementById('stats-container').innerHTML = `
+                <div class="stat-card"><div class="stat-value">${stats.active||0}</div><div class="stat-label">Active</div></div>
+                <div class="stat-card"><div class="stat-value">${stats.total||0}</div><div class="stat-label">Total</div></div>
+                <div class="stat-card"><div class="stat-value">${stats.quality_1080p||0}</div><div class="stat-label">1080p</div></div>
+                <div class="stat-card"><div class="stat-value">${stats.quality_720p||0}</div><div class="stat-label">720p</div></div>
+            `;
+            
+            const live = stats.active_channels ? stats.active_channels.split(',') : [];
+            document.getElementById('live-channels').innerHTML = live.map(ch=>`
+                <div class="channel-card"><div class="channel-name">🔴 ${ch}</div></div>
+            `).join('') || '<p>No live channels</p>';
+            
+            const offline = stats.offline_channels ? stats.offline_channels.split(',') : [];
+            document.getElementById('offline-channels').innerHTML = offline.map(ch=>`
+                <div class="channel-card" style="border-left-color:#999;"><div class="channel-name">⚫ ${ch}</div></div>
+            `).join('') || '<p>No offline channels</p>';
+            
+            const errors = stats.error_channels ? stats.error_channels.split(',') : [];
+            document.getElementById('error-channels').innerHTML = errors.map(ch=>`
+                <div class="channel-card" style="border-left-color:#dc3545;"><div class="channel-name">❌ ${ch}</div></div>
+            `).join('') || '<p>No errors</p>';
+            
+            document.getElementById('last-updated').textContent = new Date().toLocaleString();
+        });
     </script>
 </body>
 </html>
