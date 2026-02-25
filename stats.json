@@ -1,16 +1,16 @@
 {
-  "total": 9,
-  "live": 9,
+  "total": 12,
+  "live": 12,
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 6,
-    "720p": 3,
+    "1080p": 7,
+    "720p": 5,
     "480p": 0,
     "other": 0
   },
   "by_category": {
     "News": 4,
-    "General": 5
+    "General": 8
   }
 }
