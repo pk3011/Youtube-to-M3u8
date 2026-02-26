@@ -3,6 +3,8 @@ include:
   - "*.xml"
   - "*.json"
   - "logos/"
+  - "channels/"
 mime_types:
   m3u8: application/vnd.apple.mpegurl
   xml: application/xml
+  json: application/json

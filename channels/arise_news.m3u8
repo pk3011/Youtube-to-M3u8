@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: Arise News
+# ID: UCyEJX-kSj0kOOCS7Qlq2G7g
+# Quality: 1080p
+# Generated: 2026-02-26 10:17:42 UTC
+# URL expires: ~6 hours from generation
+
+#EXTINF:-1 tvg-id="UCyEJX-kSj0kOOCS7Qlq2G7g" tvg-logo="logos/UCyEJX-kSj0kOOCS7Qlq2G7g.jpg" tvg-name="Arise News" group-title="Individual",Arise News [1080p]
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1772122605/ei/jR2gaaOBGbD0ut0P84jhoQg/ip/2a09:bac5:7970:1cd2::2df:eb/id/4uHZdlX-DT4.6/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-vgqsrndl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-xRWn3DwTZAClM6gIniL8Y1NsBCS2ya1p4wS5qnPg56gim6P27bB1J30bzhs3Q0EvNr8YZVlREW/spc/6dlaFCQv3a3ip8rRcswKiVIgb61x41-6AWcLBKOOZyatEhS6ioCZ548pp9mYU8yA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2867500/met/1772101005,/mh/VX/mm/44/mn/sn-vgqsrndl/ms/lva/mv/m/mvi/1/pl/42/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565681,51580968,51791333/mt/1772100272/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AJEij0EwRgIhAL1R9YlkdZy86nP1lPrN9PZHm8ROS1swzrSGUjC0MXjIAiEAvphUVBvbo9z2-SuCZOPlaA_pBpVG3hYaL2bZPd4juig%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgI5feYXjxjV8b8Up3pWlgPcAfAGBQkhBBRH4ha1pA86YCIQC8_UzfJywqNAEtKvz0eifUHZdYaYVahhnyVJAnuX4mPA%3D%3D/playlist/index.m3u8

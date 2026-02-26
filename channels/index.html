@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>📺 Individual Channels</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container { 
+            max-width: 1200px; 
+            margin: 0 auto; 
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        .header { 
+            background: linear-gradient(135deg, #4CAF50 0%, #45a049 100%);
+            color: white; 
+            padding: 30px; 
+            text-align: center;
+        }
+        .header h1 { font-size: 2em; margin-bottom: 10px; }
+        .content { padding: 30px; }
+        .channel-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .channel-card {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            border-left: 4px solid #4CAF50;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+        }
+        .channel-card:hover { transform: translateY(-2px); }
+        .channel-name {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .channel-quality {
+            color: #4CAF50;
+            font-size: 0.9em;
+            margin-bottom: 15px;
+        }
+        .btn {
+            display: inline-block;
+            background: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 6px;
+            text-decoration: none;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            font-size: 0.9em;
+            border: none;
+            cursor: pointer;
+        }
+        .btn:hover { background: #45a049; }
+        .btn-outline {
+            background: transparent;
+            border: 2px solid #4CAF50;
+            color: #4CAF50;
+        }
+        .btn-outline:hover {
+            background: #4CAF50;
+            color: white;
+        }
+        .footer {
+            background: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            color: #666;
+            border-top: 1px solid #e0e0e0;
+        }
+        code {
+            background: #f5f5f5;
+            padding: 3px 6px;
+            border-radius: 3px;
+            font-size: 0.85em;
+        }
+        @media (max-width: 768px) {
+            .channel-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📺 Individual Channel Streams</h1>
+            <p>Direct M3U8 links for each channel</p>
+        </div>
+        
+        <div class="content">
+            <div style="margin-bottom: 20px;">
+                <a href="../streams.m3u8" class="btn">📋 Main Playlist</a>
+                <a href="../streams_hd.m3u8" class="btn">🎥 HD Playlist</a>
+                <a href="../streams_mobile.m3u8" class="btn">📱 Mobile Playlist</a>
+                <a href="../epg.xml" class="btn">📺 EPG Guide</a>
+            </div>
+            
+            <h2 style="margin-bottom: 20px;">Available Channels (9 live)</h2>
+            <div class="channel-grid">
+
+                <div class="channel-card">
+                    <div class="channel-name">Arise News</div>
+                    <div class="channel-quality">🔴 LIVE • 1080p</div>
+                    <div>
+                        <a href="arise_news.m3u8" class="btn">▶️ Play</a>
+                        <a href="arise_news.m3u8" download class="btn btn-outline">📥 Download</a>
+                    </div>
+                    <div style="margin-top: 10px;">
+                        <small>Copy URL:</small><br>
+                        <code>../channels/arise_news.m3u8</code>
+                    </div>
+                </div>
+                <div class="channel-card">
+                    <div class="channel-name">TVC News Nigeria</div>
+                    <div class="channel-quality">🔴 LIVE • 1080p</div>
+                    <div>
+                        <a href="tvc_news_nigeria.m3u8" class="btn">▶️ Play</a>
+                        <a href="tvc_news_nigeria.m3u8" download class="btn btn-outline">📥 Download</a>
+                    </div>
+                    <div style="margin-top: 10px;">
+                        <small>Copy URL:</small><br>
+                        <code>../channels/tvc_news_nigeria.m3u8</code>
+                    </div>
+                </div>
+                <div class="channel-card">
+                    <div class="channel-name">Channels Television</div>
+                    <div class="channel-quality">🔴 LIVE • 720p</div>
+                    <div>
+                        <a href="channels_television.m3u8" class="btn">▶️ Play</a>
+                        <a href="channels_television.m3u8" download class="btn btn-outline">📥 Download</a>
+                    </div>
+                    <div style="margin-top: 10px;">
+                        <small>Copy URL:</small><br>
+                        <code>../channels/channels_television.m3u8</code>
+                    </div>
+                </div>
+                <div class="channel-card">
+                    <div class="channel-name">News Central TV</div>
+                    <div class="channel-quality">🔴 LIVE • 1080p</div>
+                    <div>
+                        <a href="news_central_tv.m3u8" class="btn">▶️ Play</a>
+                        <a href="news_central_tv.m3u8" download class="btn btn-outline">📥 Download</a>
+                    </div>
+                    <div style="margin-top: 10px;">
+                        <small>Copy URL:</small><br>
+                        <code>../channels/news_central_tv.m3u8</code>
+                    </div>
+                </div>
+                <div class="channel-card">
+                    <div class="channel-name">NTA Live</div>
+                    <div class="channel-quality">🔴 LIVE • 1080p</div>
+                    <div>
+                        <a href="nta_live.m3u8" class="btn">▶️ Play</a>
+                        <a href="nta_live.m3u8" download class="btn btn-outline">📥 Download</a>
+                    </div>
+                    <div style="margin-top: 10px;">
+                        <small>Copy URL:</small><br>
+                        <code>../channels/nta_live.m3u8</code>
+                    </div>
+                </div>
+                <div class="channel-card">
+                    <div class="channel-name">Silverbird N24</div>
+                    <div class="channel-quality">🔴 LIVE • 720p</div>
+                    <div>
+                        <a href="silverbird_n24.m3u8" class="btn">▶️ Play</a>
+                        <a href="silverbird_n24.m3u8" download class="btn btn-outline">📥 Download</a>
+                    </div>
+                    <div style="margin-top: 10px;">
+                        <small>Copy URL:</small><br>
+                        <code>../channels/silverbird_n24.m3u8</code>
+                    </div>
+                </div>
+                <div class="channel-card">
+                    <div class="channel-name">AITLiveStream1</div>
+                    <div class="channel-quality">🔴 LIVE • 1080p</div>
+                    <div>
+                        <a href="aitlivestream1.m3u8" class="btn">▶️ Play</a>
+                        <a href="aitlivestream1.m3u8" download class="btn btn-outline">📥 Download</a>
+                    </div>
+                    <div style="margin-top: 10px;">
+                        <small>Copy URL:</small><br>
+                        <code>../channels/aitlivestream1.m3u8</code>
+                    </div>
+                </div>
+                <div class="channel-card">
+                    <div class="channel-name">JoyNews</div>
+                    <div class="channel-quality">🔴 LIVE • 1080p</div>
+                    <div>
+                        <a href="joynews.m3u8" class="btn">▶️ Play</a>
+                        <a href="joynews.m3u8" download class="btn btn-outline">📥 Download</a>
+                    </div>
+                    <div style="margin-top: 10px;">
+                        <small>Copy URL:</small><br>
+                        <code>../channels/joynews.m3u8</code>
+                    </div>
+                </div>
+                <div class="channel-card">
+                    <div class="channel-name">Adom TV</div>
+                    <div class="channel-quality">🔴 LIVE • 1080p</div>
+                    <div>
+                        <a href="adom_tv.m3u8" class="btn">▶️ Play</a>
+                        <a href="adom_tv.m3u8" download class="btn btn-outline">📥 Download</a>
+                    </div>
+                    <div style="margin-top: 10px;">
+                        <small>Copy URL:</small><br>
+                        <code>../channels/adom_tv.m3u8</code>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>🔄 Refreshes every 6 hours • URLs expire ~6 hours</p>
+            <p>⏰ Last updated: 2026-02-26 10:17 UTC</p>
+            <p>🔗 GitHub: <a href="https://github.com/uticap/Youtube-to-M3u8">uticap/Youtube-to-M3u8</a></p>
+        </div>
+    </div>
+</body>
+</html>

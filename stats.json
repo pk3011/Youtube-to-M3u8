@@ -1,16 +1,63 @@
 {
-  "total": 11,
-  "live": 11,
+  "total": 9,
+  "live": 9,
   "offline": 0,
   "error": 0,
   "qualities": {
     "1080p": 7,
-    "720p": 4,
+    "720p": 2,
     "480p": 0,
     "other": 0
   },
   "by_category": {
     "News": 4,
-    "General": 7
-  }
+    "General": 5
+  },
+  "individual_channels": [
+    {
+      "name": "Arise News",
+      "file": "channels/arise_news.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "TVC News Nigeria",
+      "file": "channels/tvc_news_nigeria.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Channels Television",
+      "file": "channels/channels_television.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "News Central TV",
+      "file": "channels/news_central_tv.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "NTA Live",
+      "file": "channels/nta_live.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Silverbird N24",
+      "file": "channels/silverbird_n24.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "AITLiveStream1",
+      "file": "channels/aitlivestream1.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "JoyNews",
+      "file": "channels/joynews.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Adom TV",
+      "file": "channels/adom_tv.m3u8",
+      "quality": "1080p"
+    }
+  ]
 }

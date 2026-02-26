@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: JoyNews
+# ID: UChd1DEecCRlxaa0-hvPACCw
+# Quality: 1080p
+# Generated: 2026-02-26 10:17:42 UTC
+# URL expires: ~6 hours from generation
+
+#EXTINF:-1 tvg-id="UChd1DEecCRlxaa0-hvPACCw" tvg-logo="logos/UChd1DEecCRlxaa0-hvPACCw.jpg" tvg-name="JoyNews" group-title="Individual",JoyNews [1080p]
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1772122649/ei/uR2gaY-RM86Fy_sPi52jwA0/ip/2a09:bac5:7970:1cd2::2df:eb/id/n4ThGAoXtyE.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-vgqsrn6d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AVNa5-yBDPsAP-qNPI0EQhLJUJTuQqmcZwbr0T038pRRmUJt4sVyUaxCfSbiUZlHPql2eJYdeMdrpumj/spc/6dlaFKuqQ5WBd9CwGL0mOzgnwP5mYCV5NXbwtXYXebI4sWcNXUtaEwkvV3PDWolA/vprv/1/playlist_type/DVR/initcwndbps/2263750/met/1772101050,/mh/Nw/mm/44/mn/sn-vgqsrn6d/ms/lva/mv/m/mvi/3/pl/42/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565682,51580968,51791333/mt/1772100775/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJEij0EwRQIhAKkYpyogzK5BqWu43aKeTbq2tMVudK0MsrbbUJoQsxMHAiBVrV6EyUfAISeC3o1ULMVEQHmm1QRYpb_QDtjhfJnz5A%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgeYNDg11qZBwPrMhmDquCv5iksWxGsK0ervHBUoQeh_UCIEcdCFTN0NVG40C8gyI6VkB1saT31A36q3FTFBsfrJrE/playlist/index.m3u8

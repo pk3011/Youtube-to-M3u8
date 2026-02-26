@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: NTA Live
+# ID: UCaiRlJZKn0bMRNutRWArrrg
+# Quality: 1080p
+# Generated: 2026-02-26 10:17:42 UTC
+# URL expires: ~6 hours from generation
+
+#EXTINF:-1 tvg-id="UCaiRlJZKn0bMRNutRWArrrg" tvg-logo="logos/UCaiRlJZKn0bMRNutRWArrrg.jpg" tvg-name="NTA Live" group-title="Individual",NTA Live [1080p]
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1772122630/ei/ph2gaaDpLdSE0_wPvIKi8Ag/ip/2a09:bac5:7970:1cd2::2df:eb/id/48FhKecDhyE.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-vgqsrnds.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-xhXk6XgjKvKAAGk8ziNZSgk9Z-r66YtcF7N6ElAPAaRjqrWCyLbRYGdO_1xBxpp-ehS8QEQ09h/spc/6dlaFBhndlTZciX_rSmLwJCnGubbqckpQ9H3Ndghongmdmyg_mcZJd9BRmm1ke_D/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4282500/met/1772101030,/mh/IE/mm/44/mn/sn-vgqsrnds/ms/lva/mv/m/mvi/1/pl/42/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968,51791333/mt/1772100272/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AJEij0EwRgIhAPENE2szv0x1k7mpRK8XWVTYjWooFpkMyGNm_KIQcuxRAiEA2yib7EGoO6IOm4SBK3c9783V7EnjogTJq19DSgxNKYw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAOJlBf8XtGXpKwc9p_nUQGLZzsUeHKlmbXZ5AxTdgGeZAiAbUE9SeAwfInEdnlOH9soRLWo76NSdBclr_G40bUxLRw%3D%3D/playlist/index.m3u8

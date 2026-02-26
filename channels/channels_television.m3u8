@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: Channels Television
+# ID: UCEXGDNclvmg6RW0vipJYsTQ
+# Quality: 720p
+# Generated: 2026-02-26 10:17:42 UTC
+# URL expires: ~6 hours from generation
+
+#EXTINF:-1 tvg-id="UCEXGDNclvmg6RW0vipJYsTQ" tvg-logo="logos/UCEXGDNclvmg6RW0vipJYsTQ.jpg" tvg-name="Channels Television" group-title="Individual",Channels Television [720p]
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1772122617/ei/mR2gaej9HebC0_wPp-n98Ag/ip/2a09:bac5:7970:1cd2::2df:eb/id/d4zDorDl5UE.6/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr1---sn-vgqsrn6k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AVNa5-yYtAzkbhon3nHmK2IW7JG5n7MVFiWbGi27z9lLSe7S_RMVfsKhQgvYGVIO5wZCDxDivdUTrsxw/spc/6dlaFGHxbeWKI6UCmLq75vgoEkPEExozePT3eW_QzvemL--ZFXOGVx4Wvw78bu98/vprv/1/playlist_type/DVR/initcwndbps/1828750/met/1772101017,/mh/39/mm/44/mn/sn-vgqsrn6k/ms/lva/mv/m/mvi/1/pl/42/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565681,51580968,51791334/mt/1772100775/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJEij0EwRgIhAK6pxa6AhJLysoEu8yR__VZzg2ifxG5cJVl7H0JnGC8nAiEAvnA5D5EXZsic6SoZBYtD1-0APgQiIyB4V2subxzDIMk%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgIOfni2JIi33fF9CoTiVIZQ4ijvZQNgomc07ImbzkSN0CIHPgRr8lu-yPpAtX4L00G2Y4qqLAUqGjhzhQVJi___Ov/playlist/index.m3u8
