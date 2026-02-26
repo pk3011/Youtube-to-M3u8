@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260226113122 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260226130722 ">
   <channel id="UCyEJX-kSj0kOOCS7Qlq2G7g">
     <display-name>Arise News</display-name>
     <icon src="logos/UCyEJX-kSj0kOOCS7Qlq2G7g.jpg"/>
   </channel>
-  <programme start="20260226113122 +0000" stop="20260226123122 +0000" channel="UCyEJX-kSj0kOOCS7Qlq2G7g">
-    <title>Arise News Live 2026-02-26 11:30</title>
+  <programme start="20260226130722 +0000" stop="20260226140722 +0000" channel="UCyEJX-kSj0kOOCS7Qlq2G7g">
+    <title>Arise News Live 2026-02-26 13:06</title>
     <desc>Live YouTube stream from Arise News</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>TVC News Nigeria</display-name>
     <icon src="logos/UCgp4A6I8LCWrhUzn-5SbKvA.jpg"/>
   </channel>
-  <programme start="20260226113122 +0000" stop="20260226123122 +0000" channel="UCgp4A6I8LCWrhUzn-5SbKvA">
-    <title>LIVE [OGUN]: INAUGURATION OF IWORO-OGBOGBO-IGBEBA ROAD, IJEBU NORTH EAST LG 2026-02-26 11:30</title>
+  <programme start="20260226130722 +0000" stop="20260226140722 +0000" channel="UCgp4A6I8LCWrhUzn-5SbKvA">
+    <title>TVC News Nigeria Livestream 2026-02-26 13:06</title>
     <desc>Live YouTube stream from TVC News Nigeria</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>Channels Television</display-name>
     <icon src="logos/UCEXGDNclvmg6RW0vipJYsTQ.jpg"/>
   </channel>
-  <programme start="20260226113122 +0000" stop="20260226123122 +0000" channel="UCEXGDNclvmg6RW0vipJYsTQ">
-    <title>Channels Television -- Live Stream 2026-02-26 11:30</title>
+  <programme start="20260226130722 +0000" stop="20260226140722 +0000" channel="UCEXGDNclvmg6RW0vipJYsTQ">
+    <title>Channels Television -- Live Stream 2026-02-26 13:06</title>
     <desc>Live YouTube stream from Channels Television</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>News Central TV</display-name>
     <icon src="logos/UCPLKy4Ypb4mfblbjJI8Aljw.jpg"/>
   </channel>
-  <programme start="20260226113122 +0000" stop="20260226123122 +0000" channel="UCPLKy4Ypb4mfblbjJI8Aljw">
-    <title>🔴LIVE: News Central TV Live | 2026-02-26 11:30</title>
+  <programme start="20260226130722 +0000" stop="20260226140722 +0000" channel="UCPLKy4Ypb4mfblbjJI8Aljw">
+    <title>🔴LIVE: News Central TV Live | 2026-02-26 13:06</title>
     <desc>Live YouTube stream from News Central TV</desc>
     <category>Live</category>
   </programme>
@@ -40,26 +40,26 @@
     <display-name>NTA Live</display-name>
     <icon src="logos/UCaiRlJZKn0bMRNutRWArrrg.jpg"/>
   </channel>
-  <programme start="20260226113122 +0000" stop="20260226123122 +0000" channel="UCaiRlJZKn0bMRNutRWArrrg">
-    <title>NTA Live 2026-02-26 11:30</title>
+  <programme start="20260226130722 +0000" stop="20260226140722 +0000" channel="UCaiRlJZKn0bMRNutRWArrrg">
+    <title>NTA Live 2026-02-26 13:06</title>
     <desc>Live YouTube stream from NTA Live</desc>
     <category>Live</category>
   </programme>
-  <channel id="UCWJMPKmFc1RIem7_3BUcjPQ">
-    <display-name>AITLiveStream1</display-name>
-    <icon src="logos/UCWJMPKmFc1RIem7_3BUcjPQ.jpg"/>
+  <channel id="UCNuPuew8lLVB3mMAm9_Qt9w">
+    <display-name>Silverbird N24</display-name>
+    <icon src="logos/UCNuPuew8lLVB3mMAm9_Qt9w.jpg"/>
   </channel>
-  <programme start="20260226113122 +0000" stop="20260226123122 +0000" channel="UCWJMPKmFc1RIem7_3BUcjPQ">
-    <title>AIT REPORTS | 26TH FEBRUARY 2026 | AIT LIVE 2026-02-26 11:30</title>
-    <desc>Live YouTube stream from AITLiveStream1</desc>
+  <programme start="20260226130722 +0000" stop="20260226140722 +0000" channel="UCNuPuew8lLVB3mMAm9_Qt9w">
+    <title>silverbird television live stream 2026-02-26 13:06</title>
+    <desc>Live YouTube stream from Silverbird N24</desc>
     <category>Live</category>
   </programme>
   <channel id="UCC54ckTvq2EphHOiM5iPFzg">
     <display-name>Voice of the People 903 FM</display-name>
     <icon src="logos/UCC54ckTvq2EphHOiM5iPFzg.jpg"/>
   </channel>
-  <programme start="20260226113122 +0000" stop="20260226123122 +0000" channel="UCC54ckTvq2EphHOiM5iPFzg">
-    <title>BREAKING: Protest Rocks Kwara, Ondo Over Terrorist Killings 2026-02-26 11:31</title>
+  <programme start="20260226130722 +0000" stop="20260226140722 +0000" channel="UCC54ckTvq2EphHOiM5iPFzg">
+    <title>REVEALED: Did Okpebholo Order Assassination Attempt on Peter Obi? ADC Speaks 2026-02-26 13:07</title>
     <desc>Live YouTube stream from Voice of the People 903 FM</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>JoyNews</display-name>
     <icon src="logos/UChd1DEecCRlxaa0-hvPACCw.jpg"/>
   </channel>
-  <programme start="20260226113122 +0000" stop="20260226123122 +0000" channel="UChd1DEecCRlxaa0-hvPACCw">
-    <title>JoyNews Live 2026-02-26 11:31</title>
+  <programme start="20260226130722 +0000" stop="20260226140722 +0000" channel="UChd1DEecCRlxaa0-hvPACCw">
+    <title>JoyNews Live 2026-02-26 13:07</title>
     <desc>Live YouTube stream from JoyNews</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>Parliament of Ghana</display-name>
     <icon src="logos/UCP5-atAAZsIOscm-4EkL9nQ.jpg"/>
   </channel>
-  <programme start="20260226113122 +0000" stop="20260226123122 +0000" channel="UCP5-atAAZsIOscm-4EkL9nQ">
-    <title>Proceedings of Thursday, 26th February, 2026 2026-02-26 11:31</title>
+  <programme start="20260226130722 +0000" stop="20260226140722 +0000" channel="UCP5-atAAZsIOscm-4EkL9nQ">
+    <title>Proceedings of Thursday, 26th February, 2026 2026-02-26 13:07</title>
     <desc>Live YouTube stream from Parliament of Ghana</desc>
     <category>Live</category>
   </programme>
@@ -85,8 +85,8 @@
     <display-name>Adom TV</display-name>
     <icon src="logos/UCKlgbbF9wphTKATOWiG5jPQ.jpg"/>
   </channel>
-  <programme start="20260226113122 +0000" stop="20260226123122 +0000" channel="UCKlgbbF9wphTKATOWiG5jPQ">
-    <title>ADOM TV LIVE 2026-02-26 11:31</title>
+  <programme start="20260226130722 +0000" stop="20260226140722 +0000" channel="UCKlgbbF9wphTKATOWiG5jPQ">
+    <title>ADOM TV LIVE 2026-02-26 13:07</title>
     <desc>Live YouTube stream from Adom TV</desc>
     <category>Live</category>
   </programme>
