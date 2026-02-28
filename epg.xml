@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260228015343 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260228063957 ">
   <channel id="UCyEJX-kSj0kOOCS7Qlq2G7g">
     <display-name>Arise News</display-name>
     <icon src="logos/UCyEJX-kSj0kOOCS7Qlq2G7g.jpg"/>
   </channel>
-  <programme start="20260228015343 +0000" stop="20260228025343 +0000" channel="UCyEJX-kSj0kOOCS7Qlq2G7g">
-    <title>Arise News Live 2026-02-28 01:52</title>
+  <programme start="20260228063957 +0000" stop="20260228073957 +0000" channel="UCyEJX-kSj0kOOCS7Qlq2G7g">
+    <title>Arise News Live 2026-02-28 06:39</title>
     <desc>Live YouTube stream from Arise News</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>TVC News Nigeria</display-name>
     <icon src="logos/UCgp4A6I8LCWrhUzn-5SbKvA.jpg"/>
   </channel>
-  <programme start="20260228015343 +0000" stop="20260228025343 +0000" channel="UCgp4A6I8LCWrhUzn-5SbKvA">
-    <title>TVC News Nigeria Livestream 2026-02-28 01:52</title>
+  <programme start="20260228063957 +0000" stop="20260228073957 +0000" channel="UCgp4A6I8LCWrhUzn-5SbKvA">
+    <title>TVC News Nigeria Livestream 2026-02-28 06:39</title>
     <desc>Live YouTube stream from TVC News Nigeria</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>Channels Television</display-name>
     <icon src="logos/UCEXGDNclvmg6RW0vipJYsTQ.jpg"/>
   </channel>
-  <programme start="20260228015343 +0000" stop="20260228025343 +0000" channel="UCEXGDNclvmg6RW0vipJYsTQ">
-    <title>Channels Television -- Live Stream 2026-02-28 01:53</title>
+  <programme start="20260228063957 +0000" stop="20260228073957 +0000" channel="UCEXGDNclvmg6RW0vipJYsTQ">
+    <title>Channels Television -- Live Stream 2026-02-28 06:39</title>
     <desc>Live YouTube stream from Channels Television</desc>
     <category>Live</category>
   </programme>
@@ -31,35 +31,35 @@
     <display-name>News Central TV</display-name>
     <icon src="logos/UCPLKy4Ypb4mfblbjJI8Aljw.jpg"/>
   </channel>
-  <programme start="20260228015343 +0000" stop="20260228025343 +0000" channel="UCPLKy4Ypb4mfblbjJI8Aljw">
-    <title>🔴LIVE: News Central TV Live | 2026-02-28 01:53</title>
+  <programme start="20260228063957 +0000" stop="20260228073957 +0000" channel="UCPLKy4Ypb4mfblbjJI8Aljw">
+    <title>🔴LIVE: News Central TV Live | 2026-02-28 06:39</title>
     <desc>Live YouTube stream from News Central TV</desc>
-    <category>Live</category>
-  </programme>
-  <channel id="UCaiRlJZKn0bMRNutRWArrrg">
-    <display-name>NTA Live</display-name>
-    <icon src="logos/UCaiRlJZKn0bMRNutRWArrrg.jpg"/>
-  </channel>
-  <programme start="20260228015343 +0000" stop="20260228025343 +0000" channel="UCaiRlJZKn0bMRNutRWArrrg">
-    <title>NTA Live 2026-02-28 01:53</title>
-    <desc>Live YouTube stream from NTA Live</desc>
     <category>Live</category>
   </programme>
   <channel id="UCNuPuew8lLVB3mMAm9_Qt9w">
     <display-name>Silverbird N24</display-name>
     <icon src="logos/UCNuPuew8lLVB3mMAm9_Qt9w.jpg"/>
   </channel>
-  <programme start="20260228015343 +0000" stop="20260228025343 +0000" channel="UCNuPuew8lLVB3mMAm9_Qt9w">
-    <title>silverbird television live stream 2026-02-28 01:53</title>
+  <programme start="20260228063957 +0000" stop="20260228073957 +0000" channel="UCNuPuew8lLVB3mMAm9_Qt9w">
+    <title>silverbird television live stream 2026-02-28 06:39</title>
     <desc>Live YouTube stream from Silverbird N24</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UCC54ckTvq2EphHOiM5iPFzg">
+    <display-name>Voice of the People 903 FM</display-name>
+    <icon src="logos/UCC54ckTvq2EphHOiM5iPFzg.jpg"/>
+  </channel>
+  <programme start="20260228063957 +0000" stop="20260228073957 +0000" channel="UCC54ckTvq2EphHOiM5iPFzg">
+    <title>The Role of Citizens in Ensuring Free and Fair Elections 2026-02-28 06:39</title>
+    <desc>Live YouTube stream from Voice of the People 903 FM</desc>
     <category>Live</category>
   </programme>
   <channel id="UChd1DEecCRlxaa0-hvPACCw">
     <display-name>JoyNews</display-name>
     <icon src="logos/UChd1DEecCRlxaa0-hvPACCw.jpg"/>
   </channel>
-  <programme start="20260228015343 +0000" stop="20260228025343 +0000" channel="UChd1DEecCRlxaa0-hvPACCw">
-    <title>JoyNews Live 2026-02-28 01:53</title>
+  <programme start="20260228063957 +0000" stop="20260228073957 +0000" channel="UChd1DEecCRlxaa0-hvPACCw">
+    <title>JoyNews Live 2026-02-28 06:39</title>
     <desc>Live YouTube stream from JoyNews</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>Adom TV</display-name>
     <icon src="logos/UCKlgbbF9wphTKATOWiG5jPQ.jpg"/>
   </channel>
-  <programme start="20260228015343 +0000" stop="20260228025343 +0000" channel="UCKlgbbF9wphTKATOWiG5jPQ">
-    <title>ADOM TV LIVE 2026-02-28 01:53</title>
+  <programme start="20260228063957 +0000" stop="20260228073957 +0000" channel="UCKlgbbF9wphTKATOWiG5jPQ">
+    <title>ADOM TV LIVE 2026-02-28 06:39</title>
     <desc>Live YouTube stream from Adom TV</desc>
     <category>Live</category>
   </programme>

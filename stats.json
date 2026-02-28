@@ -4,8 +4,8 @@
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 6,
-    "720p": 2,
+    "1080p": 5,
+    "720p": 3,
     "480p": 0,
     "other": 0
   },
@@ -38,13 +38,13 @@
       "quality": "1080p"
     },
     {
-      "name": "NTA Live",
-      "file": "channels/nta_live.m3u8",
-      "quality": "1080p"
-    },
-    {
       "name": "Silverbird N24",
       "file": "channels/silverbird_n24.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "Voice of the People 903 FM",
+      "file": "channels/voice_of_the_people_903_fm.m3u8",
       "quality": "720p"
     },
     {
