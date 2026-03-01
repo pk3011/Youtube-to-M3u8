@@ -1,20 +1,20 @@
 {
-  "total": 12,
-  "live": 12,
+  "total": 8,
+  "live": 8,
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 8,
-    "720p": 4,
+    "1080p": 6,
+    "720p": 2,
     "480p": 0,
     "other": 0
   },
   "by_category": {
-    "News": 3,
-    "General": 9
+    "News": 4,
+    "General": 4
   },
   "by_country": {
-    "US": 12
+    "US": 8
   },
   "individual_channels": [
     {
@@ -48,29 +48,9 @@
       "quality": "720p"
     },
     {
-      "name": "AITLiveStream1",
-      "file": "channels/aitlivestream1.m3u8",
+      "name": "JoyNews",
+      "file": "channels/joynews.m3u8",
       "quality": "1080p"
-    },
-    {
-      "name": "Voice of the People 903 FM",
-      "file": "channels/voice_of_the_people_903_fm.m3u8",
-      "quality": "720p"
-    },
-    {
-      "name": "Voice of the People TV",
-      "file": "channels/voice_of_the_people_tv.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "Unknown",
-      "file": "channels/unknown.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "TV3 Ghana",
-      "file": "channels/tv3_ghana.m3u8",
-      "quality": "720p"
     },
     {
       "name": "Adom TV",
