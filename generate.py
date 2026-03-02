@@ -12,7 +12,7 @@ from xml.dom import minidom
 
 # ============= CONFIGURATION =============
 QUALITY_PROFILES = {
-    'hd': {'format': 'best', 'suffix': '[HD]', 'priority': []},
+    'hd': {'min_height': 1080, 'suffix': '[HD]', 'priority': [1080]},
     'mobile': {'max_height': 480, 'suffix': '[Mobile]', 'priority': [480, 360]},
     'audio': {'format': 'bestaudio', 'suffix': '[Audio]', 'priority': []}
 }
@@ -79,10 +79,10 @@ class YouTubePlaylistGenerator:
         # GHANAIAN CHANNELS
         ghanaian_keywords = [
             # Country names
-            'ghana', 'ghanaian', 'accra', 'kumasi',
+            'maxico', 'ghanaian', 'accra', 'kumasi',
             
             # Specific Ghanaian channels
-            'joy news', 'joy fm', 'adom tv', 'adom fm',
+            'Windies Cricket', 'joy fm', 'adom tv', 'adom fm',
             'tv3 ghana', 'tv3', 'cititv', 'citizen tv',
             'utv ghana', 'utv', 'metro tv ghana', 'metro tv',
             'peace fm', 'angel tv', 'multitv', 'ghone',
@@ -91,8 +91,8 @@ class YouTubePlaylistGenerator:
         
         for keyword in ghanaian_keywords:
             if keyword in channel_name_lower:
-                print(f"  🌍 Found Ghanaian keyword: '{keyword}', using GH")
-                return 'GH'
+                print(f"  🌍 Found Ghanaian keyword: '{keyword}', using MX")
+                return 'MX'
         
         # Default to US if no match
         print(f"  🌍 No country detected, using default: US")
