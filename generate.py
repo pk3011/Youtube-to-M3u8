@@ -12,7 +12,7 @@ from xml.dom import minidom
 
 # ============= CONFIGURATION =============
 QUALITY_PROFILES = {
-    'hd': {'min_height': 1080, 'suffix': '[HD]', 'priority': [1080]},
+    'hd': {'format': 'best', 'suffix': '[HD]', 'priority': []},
     'mobile': {'max_height': 480, 'suffix': '[Mobile]', 'priority': [480, 360]},
     'audio': {'format': 'bestaudio', 'suffix': '[Audio]', 'priority': []}
 }
