@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260302070827 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260302073657 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260302070827 +0000" stop="20260302080827 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Srinagar Protest News LIVE: Khamenei की मौत का विरोध, प्रदर्शनकारियों पर आंसू गैस के गोले छोड़े गए 2026-03-02 07:07</title>
+  <programme start="20260302073657 +0000" stop="20260302083657 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Srinagar Protest News LIVE Updates: Khamenei की मौत का विरोध, प्रदर्शनकारियों का हल्लाबोल | Aaj Tak 2026-03-02 07:36</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260302070827 +0000" stop="20260302080827 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>America Israel Attack on Iran LIVE: युद्ध में उतरा ‘B-2 बॉम्बर’ | Khamenei | Middle East War 2026-03-02 07:07</title>
+  <programme start="20260302073657 +0000" stop="20260302083657 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>Iran Attack on America LIVE: ईरान के हमले के बाद ट्रंप का बड़ा ऐलान | Donald Trump | Middle East War 2026-03-02 07:36</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260302070827 +0000" stop="20260302080827 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BIGTV 24x7 Malayalam News Official LIVE 2026-03-02 07:08</title>
+  <programme start="20260302073657 +0000" stop="20260302083657 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BIGTV 24x7 Malayalam News Official LIVE 2026-03-02 07:36</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>cricketcomau</display-name>
     <icon src="logos/UCkBY0aHJP9BwjZLDYxAQrKg.jpg"/>
   </channel>
-  <programme start="20260302070827 +0000" stop="20260302080827 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
-    <title>Cricket Gold - 24/7 LIVE Channel 2026-03-02 07:08</title>
+  <programme start="20260302073657 +0000" stop="20260302083657 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
+    <title>Cricket Gold - 24/7 LIVE Channel 2026-03-02 07:36</title>
     <desc>Live YouTube stream from cricketcomau</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260302070827 +0000" stop="20260302080827 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-03-02 07:08</title>
+  <programme start="20260302073657 +0000" stop="20260302083657 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-03-02 07:36</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
