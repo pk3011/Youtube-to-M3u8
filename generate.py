@@ -154,7 +154,7 @@ class YouTubePlaylistGenerator:
             'retries': 5,
             'extractor_args': {
                 'youtube': {
-                    'player_client': ['web', 'android', 'ios'],
+                    'player_client': ['android', 'ios'],
                     'live_from_start': True,
                     'skip': ['webpage', 'configs']
                 }
