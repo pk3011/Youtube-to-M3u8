@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260306023759 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260306070032 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260306023759 +0000" stop="20260306033759 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>US-Israel Iran Strike Day 7 LIVE Updates: ईरान पर हमले रोकने वाला प्रस्ताव US संसद में खारिज | Trump 2026-03-06 02:37</title>
+  <programme start="20260306070032 +0000" stop="20260306080032 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>JDU Meeting LIVE Updates: JDU की बड़ी बैठक आज, Nishant Kumar को मिल सकती है कमान? | Bihar Politics 2026-03-06 07:00</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260306023759 +0000" stop="20260306033759 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>Iran US Israel War Latest News: अभी-अभी ईरान की अमेरिकी ठिकानों पर बमबारी | Khamenei | Trump 2026-03-06 02:37</title>
+  <programme start="20260306070032 +0000" stop="20260306080032 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>Iran Israel War Update: अब्राहम लिंकन पर बड़ा हमला, ट्रंप की धमकी..युद्ध में कूदे चीन-रूस! | Trump 2026-03-06 07:00</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260306023759 +0000" stop="20260306033759 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>Big TV Live | Malayalam News Live | Big Breaking Malayalam | Israel | America 2026-03-06 02:37</title>
+  <programme start="20260306070032 +0000" stop="20260306080032 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>Big TV Live | Malayalam News Live | Big Breaking Malayalam | Israel | America 2026-03-06 07:00</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260306023759 +0000" stop="20260306033759 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-03-06 02:37</title>
+  <programme start="20260306070032 +0000" stop="20260306080032 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-03-06 07:00</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>

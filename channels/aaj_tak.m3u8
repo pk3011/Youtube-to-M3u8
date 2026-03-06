@@ -2,11 +2,11 @@
 #EXT-X-VERSION:3
 # Channel: Aaj Tak
 # ID: UCt4t-jeY85JegMlZ-E5UWtA
-# Quality: 720p
+# Quality: 1080p
 # Country: US
-# Status: LIVE (as of 02:37 UTC)
-# Generated: 2026-03-06 02:37:59 UTC
-# URL expires: ~07:37 UTC (refresh playlist if expired)
+# Status: LIVE (as of 07:00 UTC)
+# Generated: 2026-03-06 07:00:32 UTC
+# URL expires: ~12:00 UTC (refresh playlist if expired)
 
-#EXTINF:-1 tvg-id="UCt4t-jeY85JegMlZ-E5UWtA" tvg-logo="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg" tvg-name="Aaj Tak" group-title="Individual",Aaj Tak [720p] 🔴 LIVE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1772786248/ei/6D2qabuZLZGKsfIPu5yN2Ao/ip/2a09:bac5:cbbf:119::1c:2f0/id/nS_mQbyMAfk.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr5---sn-nx57ynz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-wqaL6mHfhjd5P4jvkSJubmyBo_eP7Tg9SurI9fXy_YaTW2aqWwxmwLPZS0MT6XGoMY3djbAcUP/spc/6dlaFGmk07opm1fqYZieQFwDPz_MSGu2m1IN7twh7aC7xl2RS61NTqtH-MA1Ovg3/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2556250/met/1772764649,/mh/JW/mm/44/mn/sn-nx57ynz7/ms/lva/mv/m/mvi/5/pl/40/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681,51791334/mt/1772764360/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgdCUUikoxxDK6ySgxxfsSoBUsFzwtHtmvpfdPWtd7YTwCIQDBxH79fVf5KZPz-_agMvCi0Xy-982t_aup23e4QW9jSQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgE7RgAB14mk6zNQB7Y_etvMnpz2zE8khZNeLnurs4dfACIHR4FgnaZ8JEt_BrweGSXccYsp5xtkLns38KTXoThWhM/playlist/index.m3u8
+#EXTINF:-1 tvg-id="UCt4t-jeY85JegMlZ-E5UWtA" tvg-logo="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg" tvg-name="Aaj Tak" group-title="Individual",Aaj Tak [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1772802003/ei/c3uqaaCaCOCJlu8PhuzoiAI/ip/2a09:bac5:7497:15e1::22e:74/id/pWi-vgS3RI4.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-vgqsrn6d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-wADugYhISiEtuqQxigsu7VXCyYfpEG2JODkxvGG_yj0b_18b1bh9fZerBGpRecYMWjpcnClpLm/spc/6dlaFGjo6CnYBvujf8yKfP00xCNpW2BBcwe9ToHWcFMu125TQcmP3pQ2xfQ4rh-o/vprv/1/reg/0/playlist_type/DVR/met/1772780403,/mh/qw/mm/44/mn/sn-vgqsrn6d/ms/lva/mv/u/mvi/5/pl/41/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51791334/mt/1772780173/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAMlUBknm6lbslhG0Xa4CEax1AkmwPbv2yyqdckaG9AcsAiBZ3YymFOhAveb8_h1D8O0oYR2NlFPKRW2XNcFJS6c0FA%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAIL09vno8XzN2t4Mka7cXz6uuMle0rjCDq3MlFIZcCzFAiEApHqzWXFvcQAwGTB7sWlyr2z2eYBppiusYcW9ChybQoI%3D/playlist/index.m3u8
