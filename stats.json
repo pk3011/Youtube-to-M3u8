@@ -20,12 +20,12 @@
     {
       "name": "Aaj Tak",
       "file": "channels/aaj_tak.m3u8",
-      "quality": "1080p"
+      "quality": "720p"
     },
     {
       "name": "ABP NEWS",
       "file": "channels/abp_news.m3u8",
-      "quality": "720p"
+      "quality": "1080p"
     },
     {
       "name": "BIGTV24X7",
