@@ -3,10 +3,10 @@
 # Channel: BIGTV24X7
 # ID: UClFe5TPbW1MVrOPpbNHTDoQ
 # Quality: 1080p
-# Country: US
-# Status: LIVE (as of 05:11 UTC)
-# Generated: 2026-03-09 05:11:46 UTC
-# URL expires: ~10:11 UTC (refresh playlist if expired)
+# Country: UK
+# Status: LIVE (as of 05:53 UTC)
+# Generated: 2026-03-09 05:53:03 UTC
+# URL expires: ~10:53 UTC (refresh playlist if expired)
 
 #EXTINF:-1 tvg-id="UClFe5TPbW1MVrOPpbNHTDoQ" tvg-logo="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg" tvg-name="BIGTV24X7" group-title="Individual",BIGTV24X7 [1080p] 🔴 LIVE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773054667/ei/a1auabSMJoLxybgPssWXgQ8/ip/2a09:bac5:7972:25a5::3c0:55/id/HdtkAdZSJ1w.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-vgqsrn6r.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-yiPFPGzGDm__4BSkVckKsoul7OgbsNOZq16HZwCw-SLC8sX25ppRzQcXDHrkp_Wl9MnGpcxPAn/spc/6dlaFDSBTqlTV-NIjxbUm86qdcY6xQhC-itxZKF1JICC63CpEY9iHTevKyrcP7Ak/vprv/1/reg/0/playlist_type/DVR/met/1773033067,/mh/43/mm/44/mn/sn-vgqsrn6r/ms/lva/mv/u/mvi/4/pl/42/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681,51791334/mt/1773032728/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAIEPyAgv6cq00_H7ba5ldGw1prRhDTh47ZtVaduL1ctLAiB3Np0wpE4pu2ARGIDJm6y1T2wc8E-_MLaEvE1lD1XjnQ%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgUsJy4RkQlE_SgcCjcoKm_y51X7139210f63riIa_mpgCIDEaO7LHqmjXJ-7KkGyTcYGQejbiY4E_3FMXKANAZf6w/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773057149/ei/HWCuad29Fr-AkucPt4CwqQE/ip/2a09:bac1:76c1:5e78::400:20/id/HdtkAdZSJ1w.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-p5qlsn7d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-yPPCeDSqU3xpQzxfz7I87oEnux3xspHqpb4mL7zidhvQUL7iEsUTEgIiMV0AqNUz90lUPbBF24/spc/6dlaFFMoUZ5osSuNzWnRmauCGMSb9_bMwoNaHbageWSl951djEcQ73JkYQPaDj-5/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3300000/met/1773035549,/mh/43/mm/44/mn/sn-p5qlsn7d/ms/lva/mv/m/mvi/2/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51791334/mt/1773035062/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgLAbGxV7iBBy1RzbtiOWey1QO7VUDxz3TwwQBPkqS2s4CIHMv2_KH449tr6Zo2jB5niEao5bJtA10sC35SiNxNgIc/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgXHd9YcZbEjsgwkjidgA6ZZZhdpigCLvSBRfVMIox9FYCIQDTG6fnKpDmm13Lg7pm4a0udTsehPp4h4mpyKTDOW4F4Q%3D%3D/playlist/index.m3u8
