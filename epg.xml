@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260315185202 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260316013205 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260315185202 +0000" stop="20260315195202 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Election Commission | Assembly Elections Dates | Iran War | Trump | Hindi News 2026-03-15 18:50</title>
+  <programme start="20260316013205 +0000" stop="20260316023205 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: US-Israel-Iran War News Live Updates | West Bengal Elections | Trump | Hindi News 2026-03-16 01:31</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,26 +13,17 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260315185202 +0000" stop="20260315195202 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Iran US Israel War LIVE Updates | Assembly Election 2026 Dates  | LPG Crisis 2026-03-15 18:51</title>
+  <programme start="20260316013205 +0000" stop="20260316023205 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Iran US Israel War LIVE Updates | Assembly Election 2026 Dates  | LPG Crisis 2026-03-16 01:31</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
-    <category>Live</category>
-  </programme>
-  <channel id="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <display-name>BIGTV24X7</display-name>
-    <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
-  </channel>
-  <programme start="20260315185202 +0000" stop="20260315195202 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BIG TV Malayalam News Live | Malayalam News Live | HD Live Streaming | Big TV News 2026-03-15 18:51</title>
-    <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
   <channel id="UCWk-7Yosyvzln9ZzJg8BvVg">
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260315185202 +0000" stop="20260315195202 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-03-15 18:51</title>
+  <programme start="20260316013205 +0000" stop="20260316023205 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-03-16 01:31</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +31,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260315185202 +0000" stop="20260315195202 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Sunday, March 15 2026-03-15 18:51</title>
+  <programme start="20260316013205 +0000" stop="20260316023205 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-03-16 01:31</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +40,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260315185202 +0000" stop="20260315195202 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>LIVE Iran Teases Never-Seen Before Missiles After Kheibar,Ghadr Hits: Israel Panics As Israel Burns? 2026-03-15 18:51</title>
+  <programme start="20260316013205 +0000" stop="20260316023205 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>US Iran War LIVE | Iran Executes ‘Mossad Informer’ In Explosive Spy Case Linked To Khamenei | Trump 2026-03-16 01:31</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +49,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260315185202 +0000" stop="20260315195202 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE NEWS: Iran updates, oil prices, nationwide weather alerts 2026-03-15 18:51</title>
+  <programme start="20260316013205 +0000" stop="20260316023205 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>NEWS: Iran war updates, Trump returns to White House, Winter weather latest, top stories 2026-03-16 01:31</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +58,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260315185202 +0000" stop="20260315195202 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: LPG Crisis Nationwide | Israel–Iran War Tensions | PMF Fighters’ Funeral | NewsX 2026-03-15 18:51</title>
+  <programme start="20260316013205 +0000" stop="20260316023205 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: LPG Crisis Nationwide | Israel–Iran War Tensions | PMF Fighters’ Funeral | NewsX 2026-03-16 01:31</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +67,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260315185202 +0000" stop="20260315195202 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>LIVE: Israeli Airstrike In Lebanon Allegedly Eliminates Senior Hamas Official As Tensions Rise 2026-03-15 18:52</title>
+  <programme start="20260316013205 +0000" stop="20260316023205 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>Operation Roaring Lion LIVE :Intensifies Pressure On Iran As Strikes Escalate Across Region | NXW 2026-03-16 01:32</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
