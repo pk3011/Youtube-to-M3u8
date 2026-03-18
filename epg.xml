@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260318052853 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260318132907 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260318052853 +0000" stop="20260318062853 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: US-Iran Israel War | Ali Larijani Death | Trump | Weather Updates | Hindi News 2026-03-18 05:27</title>
+  <programme start="20260318132907 +0000" stop="20260318142907 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: Halla Bol | US-Iran Israel War | Ali Larijani Funeral | Trump| PM Modi | Hindi News 2026-03-18 13:28</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260318052853 +0000" stop="20260318062853 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Iran US Israel War LIVE | Trump | Strait of Hormuz | Pak Afghan War | PM Modi 2026-03-18 05:27</title>
+  <programme start="20260318132907 +0000" stop="20260318142907 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Iran US Israel War LIVE | Trump | Strait of Hormuz | Pak Afghan War | PM Modi 2026-03-18 13:28</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260318052853 +0000" stop="20260318062853 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTv24x7 Official Live | Malayalam News Live | Kerala Election 2026 2026-03-18 05:28</title>
+  <programme start="20260318132907 +0000" stop="20260318142907 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTv24x7 Official Live | Malayalam News Live | Kerala Election 2026 2026-03-18 13:28</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260318052853 +0000" stop="20260318062853 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-03-18 05:28</title>
+  <programme start="20260318132907 +0000" stop="20260318142907 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-03-18 13:28</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260318052853 +0000" stop="20260318062853 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-03-18 05:28</title>
+  <programme start="20260318132907 +0000" stop="20260318142907 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - Wednesday, March 18 2026-03-18 13:28</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260318052853 +0000" stop="20260318062853 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>Hezbollah War Unleashes Exodus: Beirut Burns, Families Face Annihilation, 800,000 Homeless in Days 2026-03-18 05:28</title>
+  <programme start="20260318132907 +0000" stop="20260318142907 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>LIVE | US Navy Shocked? Iran Reveals 2 Missiles Behind ‘Dena Revenge’ Warship Strike | Trump 2026-03-18 13:28</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260318052853 +0000" stop="20260318062853 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>NEWS TODAY: Trump meets Irish PM, Iran war latest, SAVE America Act updates, more 2026-03-18 05:28</title>
+  <programme start="20260318132907 +0000" stop="20260318142907 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE: Markwayne Mullin DHS confirmation hearing, replacing Kristi Noem 2026-03-18 13:28</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260318052853 +0000" stop="20260318062853 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: Rajya Sabha Results | Dubai Airport Attack | US-Iran War | 400 Killed in Pak-Afghan Clash 2026-03-18 05:28</title>
+  <programme start="20260318132907 +0000" stop="20260318142907 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: Rajya Sabha Results | Dubai Airport Attack | US-Iran War | 400 Killed in Pak-Afghan Clash 2026-03-18 13:28</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260318052853 +0000" stop="20260318062853 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>Iran-Israel War LIVE: Israel Fires Artillery At Lebanon As Missiles Target Northern Israel 2026-03-18 05:28</title>
+  <programme start="20260318132907 +0000" stop="20260318142907 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>US Israel Strikes Hit Iran LIVE :Joint US Israel Strikes Hit Iran Gas Facility Triggering Massive F 2026-03-18 13:29</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
