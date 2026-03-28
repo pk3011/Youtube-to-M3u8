@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260328010907 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260328054955 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260328010907 +0000" stop="20260328020907 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: US-Israel-Iran War | Ram Mandir | PM Modi | LPG Crisis | CM Mamata | Hindi News 2026-03-28 01:08</title>
+  <programme start="20260328054955 +0000" stop="20260328064955 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: US-Israel-Iran War LIVE Updates | PM Modi | LPG Crisis | Petrol-Diesel | Hindi News 2026-03-28 05:49</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260328010907 +0000" stop="20260328020907 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Iran US Israel War News LIVE | Trump | Netanyahu | PM Modi | Bengal Politics | Sansad 2026-03-28 01:08</title>
+  <programme start="20260328054955 +0000" stop="20260328064955 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Iran US Israel War News LIVE | Trump | Netanyahu | PM Modi | Bengal Politics | Sansad 2026-03-28 05:49</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260328010907 +0000" stop="20260328020907 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTv24x7 Official Live | Malayalam News Live | Kerala Election 2026 2026-03-28 01:08</title>
+  <programme start="20260328054955 +0000" stop="20260328064955 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTv24x7 Official Live | Malayalam News Live | Kerala Election 2026 2026-03-28 05:49</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260328010907 +0000" stop="20260328020907 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-03-28 01:08</title>
+  <programme start="20260328054955 +0000" stop="20260328064955 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-03-28 05:49</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260328010907 +0000" stop="20260328020907 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Friday, March 27 2026-03-28 01:08</title>
+  <programme start="20260328054955 +0000" stop="20260328064955 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-03-28 05:49</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260328010907 +0000" stop="20260328020907 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>US Iran War LIVE: President Donald Trump Unveils Iran's Alleged 'Big Present' Amid War | Israel News 2026-03-28 01:08</title>
+  <programme start="20260328054955 +0000" stop="20260328064955 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>Trump LIVE: US President Claims Big Blow To Iran Amid Ongoing War | Mojtaba Khamenei | Israel 2026-03-28 05:49</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260328010907 +0000" stop="20260328020907 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE: LIVE NEWS: Senate approves DHS funding bill, Operation Epic Fury, Kash Patel hacked 2026-03-28 01:08</title>
+  <programme start="20260328054955 +0000" stop="20260328064955 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>NEWS TODAY: DHS funding fight, Trump remarks, Iran, Tiger Woods arrest, latest updates 2026-03-28 05:49</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260328010907 +0000" stop="20260328020907 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: Chaitra Navratri Day 9 | Tehran Explosions | Chhindwara Accident | France G7 Summit Updates 2026-03-28 01:09</title>
+  <programme start="20260328054955 +0000" stop="20260328064955 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: Nepal's ex-PM KP Sharma Oli Arrested, Murshidabad Violence, Trump-Iran War Intensifies | NewsX 2026-03-28 05:49</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260328010907 +0000" stop="20260328020907 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>Israel Strike Iran LIVE :Israeli forces strike Tehran weapons manufacturing locations| NewsX World 2026-03-28 01:09</title>
+  <programme start="20260328054955 +0000" stop="20260328064955 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>US Cuba War Live: US President Donald Trump Says Cuba Could Be Next U.S. Focus| NewsX World 2026-03-28 05:49</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
