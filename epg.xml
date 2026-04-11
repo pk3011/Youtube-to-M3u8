@@ -1,2 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260411011345 "/>
+<tv generator-info-name="YouTube Live EPG Generator" date="20260411055433 ">
+  <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
+    <display-name>Aaj Tak</display-name>
+    <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
+  </channel>
+  <programme start="20260411055433 +0000" stop="20260411065433 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: US-Iran Peace Talks LIVE News | Israel Attack Lebanon | Bengal Election| Hindi News 2026-04-11 05:53</title>
+    <desc>Live YouTube stream from Aaj Tak</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UCRWFSbif-RFENbBrSiez1DA">
+    <display-name>ABP NEWS</display-name>
+    <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
+  </channel>
+  <programme start="20260411055433 +0000" stop="20260411065433 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Iran-US Ceasefire LIVE Updates | Trump | Islamabad | Peace Talk | Bengal | PM Modi 2026-04-11 05:53</title>
+    <desc>Live YouTube stream from ABP NEWS</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <display-name>BIGTV24X7</display-name>
+    <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
+  </channel>
+  <programme start="20260411055433 +0000" stop="20260411065433 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTv24x7 Official Live | Malayalam News Live | Kerala Election 2026 2026-04-11 05:53</title>
+    <desc>Live YouTube stream from BIGTV24X7</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <display-name>Rajasthan Patrika</display-name>
+    <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
+  </channel>
+  <programme start="20260411055433 +0000" stop="20260411065433 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-04-11 05:54</title>
+    <desc>Live YouTube stream from Rajasthan Patrika</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <display-name>ABC News</display-name>
+    <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
+  </channel>
+  <programme start="20260411055433 +0000" stop="20260411065433 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-04-11 05:54</title>
+    <desc>Live YouTube stream from ABC News</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UCm7lHFkt2yB_WzL67aruVBQ">
+    <display-name>Hindustan Times</display-name>
+    <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
+  </channel>
+  <programme start="20260411055433 +0000" stop="20260411065433 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>LIVE | Missiles That Kill Without Explosion? Kim Jong Un Unleashes Weapon As US Focuses On Iran 2026-04-11 05:54</title>
+    <desc>Live YouTube stream from Hindustan Times</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <display-name>LiveNOW from FOX</display-name>
+    <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
+  </channel>
+  <programme start="20260411055433 +0000" stop="20260411065433 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>NEWS TODAY: Artemis II return, US-Iran talks in Pakistan, latest updates 2026-04-11 05:54</title>
+    <desc>Live YouTube stream from LiveNOW from FOX</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <display-name>NewsX Live</display-name>
+    <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
+  </channel>
+  <programme start="20260411055433 +0000" stop="20260411065433 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: LIVE: Artemis II Returns, Kerala Teen Tragedy &amp; Iran-US-Israel Tensions, Manipur Bomb Attack 2026-04-11 05:54</title>
+    <desc>Live YouTube stream from NewsX Live</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <display-name>NewsX World</display-name>
+    <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
+  </channel>
+  <programme start="20260411055433 +0000" stop="20260411065433 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>Trump Warns Military Action LIVE: Trump says Strait of Hormuz will be open fairly soon amid tensions 2026-04-11 05:54</title>
+    <desc>Live YouTube stream from NewsX World</desc>
+    <category>Live</category>
+  </programme>
+</tv>
