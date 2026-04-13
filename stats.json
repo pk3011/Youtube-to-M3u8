@@ -4,9 +4,9 @@
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 8,
-    "720p": 1,
-    "480p": 0,
+    "1080p": 6,
+    "720p": 2,
+    "480p": 1,
     "other": 0
   },
   "by_category": {
@@ -45,7 +45,7 @@
     {
       "name": "Hindustan Times",
       "file": "channels/hindustan_times.m3u8",
-      "quality": "1080p"
+      "quality": "720p"
     },
     {
       "name": "LiveNOW from FOX",
@@ -60,7 +60,7 @@
     {
       "name": "NewsX World",
       "file": "channels/newsx_world.m3u8",
-      "quality": "1080p"
+      "quality": "480p"
     }
   ]
 }

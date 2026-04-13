@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260413012439 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260413070835 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260413012439 +0000" stop="20260413022439 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Israel-Iran war LIVE News Updates | Strait of Hormuz | Asha Bhosle | Hindi News 2026-04-13 01:23</title>
+  <programme start="20260413070835 +0000" stop="20260413080835 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: Israel-Iran war LIVE News | Noida Protest | Hormuz | Asha Bhosle | Hindi News 2026-04-13 07:07</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260413012439 +0000" stop="20260413022439 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Iran-US Ceasefire LIVE Updates | Asha Bhosle Demise | PM Modi | US-Iran Peace Talk 2026-04-13 01:23</title>
+  <programme start="20260413070835 +0000" stop="20260413080835 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Iran US Israel Ceasefire LIVE Updates | Strait of Hormuz | Trump | Asha Bhosle 2026-04-13 07:07</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260413012439 +0000" stop="20260413022439 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTv24x7 Official Live | Malayalam News Live | Kerala Election 2026 | Nithin Raj Death 2026-04-13 01:23</title>
+  <programme start="20260413070835 +0000" stop="20260413080835 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTv24x7 Official Live | Malayalam News Live | Kerala Election 2026 | Nithin Raj Death 2026-04-13 07:07</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260413012439 +0000" stop="20260413022439 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-04-13 01:24</title>
+  <programme start="20260413070835 +0000" stop="20260413080835 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-04-13 07:08</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260413012439 +0000" stop="20260413022439 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-04-13 01:24</title>
+  <programme start="20260413070835 +0000" stop="20260413080835 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-04-13 07:08</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260413012439 +0000" stop="20260413022439 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>LIVE | Dozens Of US Tankers Ready For Iran Attack? US Warplanes In The Middle East | Iran-US War 2026-04-13 01:24</title>
+  <programme start="20260413070835 +0000" stop="20260413080835 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>US News Live | ‘Worst Is Yet To Come’: Bernie Sanders Tells American How To Defeat Trump 2026-04-13 07:08</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260413012439 +0000" stop="20260413022439 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>NEWS: Iran peace talks stall, Trump orders Strait of Hormuz blockade, Congress returns to DC 2026-04-13 01:24</title>
+  <programme start="20260413070835 +0000" stop="20260413080835 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>NEWS: Iran peace talks stall, Trump orders Strait of Hormuz blockade, Congress returns to DC 2026-04-13 07:08</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260413012439 +0000" stop="20260413022439 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: Asha Bhosle Death | Iran slams ‘war demands’ | Vance exits Pakistan | Bengal Election 2026 2026-04-13 01:24</title>
+  <programme start="20260413070835 +0000" stop="20260413080835 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: US-Iran Talks Fail | Hapur Truck Accident | Bengaluru Trainer Suicide | Asha Bhosle Funeral 2026-04-13 07:08</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260413012439 +0000" stop="20260413022439 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>LIVE :Israeli Strikes Kill Eleven In Lebanon Amid Escalating Regional Tensions | NewsX World 2026-04-13 01:24</title>
+  <programme start="20260413070835 +0000" stop="20260413080835 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>Asha Bhosle FUNERAL LIVE: Asha Bhosle remembered as icon in final journey | NewsX World 2026-04-13 07:08</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
