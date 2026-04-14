@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260414062548 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260414204232 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260414062548 +0000" stop="20260414072548 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Bihar New CM | Nitish Kumar | US-Israel Iran Conflict | Noida Protest | Hindi News 2026-04-14 06:25</title>
+  <programme start="20260414204232 +0000" stop="20260414214232 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: Samrat Chaudhary New Bihar CM LIVE Updates | Nitish Kumar Resigns | Hindi News 2026-04-14 20:41</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260414062548 +0000" stop="20260414072548 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Iran US Israel Ceasefire LIVE Updates | Strait of Hormuz | Trump | Bihar Next CM 2026-04-14 06:25</title>
+  <programme start="20260414204232 +0000" stop="20260414214232 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Iran US Israel Conflict LIVE | Hormuz | Samrat Chaudhary New Bihar CM | Nitish Kumar 2026-04-14 20:41</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260414062548 +0000" stop="20260414072548 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTv24x7 Official Live | Malayalam News Live | Kerala Election 2026 | Nithin Raj Death 2026-04-14 06:25</title>
+  <programme start="20260414204232 +0000" stop="20260414214232 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTv24x7 Official Live | Malayalam News Live | Kerala Election 2026 | Nithin Raj Death 2026-04-14 20:41</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260414062548 +0000" stop="20260414072548 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-04-14 06:25</title>
+  <programme start="20260414204232 +0000" stop="20260414214232 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-04-14 20:41</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260414062548 +0000" stop="20260414072548 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-04-14 06:25</title>
+  <programme start="20260414204232 +0000" stop="20260414214232 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - Tuesday, April 14 | ABC News 2026-04-14 20:42</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260414062548 +0000" stop="20260414072548 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>LIVE: House holds hearing on impeachment complaints vs. VP Sara Duterte | Philippines News 2026-04-14 06:25</title>
+  <programme start="20260414204232 +0000" stop="20260414214232 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>LIVE | Israel-Turkey Tensions | Netanyahu’s Remarks Put Turkey-Israel Ties at Breaking Point | NATO 2026-04-14 20:42</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260414062548 +0000" stop="20260414072548 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>NEWS: Trump DoorDash delivery, Strait of Hormuz blockade, Swalwell and Gonzales leaving Congress 2026-04-14 06:25</title>
+  <programme start="20260414204232 +0000" stop="20260414214232 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE: Trump Strait of Hormuz blockade, Israel-Lebanon peace talks in DC, Aviation safety bill &amp; more 2026-04-14 20:42</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260414062548 +0000" stop="20260414072548 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: US-Iran Talks Fail | Hapur Truck Accident | Bengaluru Trainer Suicide | Asha Bhosle Funeral 2026-04-14 06:25</title>
+  <programme start="20260414204232 +0000" stop="20260414214232 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: US-Iran Talks Fail | Hapur Truck Accident | Bengaluru Trainer Suicide | Asha Bhosle Funeral 2026-04-14 20:42</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260414062548 +0000" stop="20260414072548 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>US Blocks China Tanker Live: Shipping tensions rise as tanker crosses Hormuz route | NewsX World 2026-04-14 06:25</title>
+  <programme start="20260414204232 +0000" stop="20260414214232 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>LIVE : Iran Blames US For Failed Talks After Macron Call With Pezeshkian | NewsX World 2026-04-14 20:42</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
