@@ -45,12 +45,12 @@
     {
       "name": "Hindustan Times",
       "file": "channels/hindustan_times.m3u8",
-      "quality": "1080p"
+      "quality": "720p"
     },
     {
       "name": "LiveNOW from FOX",
       "file": "channels/livenow_from_fox.m3u8",
-      "quality": "720p"
+      "quality": "1080p"
     },
     {
       "name": "NewsX Live",
