@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260427162020 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260428014847 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260427162020 +0000" stop="20260427172020 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Black and White | West Bengal Elections | PM Modi | TMC |Trump White House Shooting 2026-04-27 16:19</title>
+  <programme start="20260428014847 +0000" stop="20260428024847 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: Iran-US Talks | Trump | West Bengal Elections | PM Modi | TMC | BJP | Hindi News 2026-04-28 01:47</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260427162020 +0000" stop="20260427172020 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Trump White House shooting LIVE Updates | Iran US | Bengal Election | BJP Vs TMC 2026-04-27 16:19</title>
+  <programme start="20260428014847 +0000" stop="20260428024847 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Trump White House shooting LIVE Updates | Iran US | Bengal Election | BJP Vs TMC 2026-04-28 01:47</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260427162020 +0000" stop="20260427172020 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTv24x7 Official Live | Malayalam News Live | Kerala Election 2026 2026-04-27 16:19</title>
+  <programme start="20260428014847 +0000" stop="20260428024847 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTv24x7 Official Live | Malayalam News Live | Kerala Election 2026 2026-04-28 01:48</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260427162020 +0000" stop="20260427172020 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-04-27 16:19</title>
+  <programme start="20260428014847 +0000" stop="20260428024847 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-04-28 01:48</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260427162020 +0000" stop="20260427172020 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Monday, April 27 | ABC News 2026-04-27 16:19</title>
+  <programme start="20260428014847 +0000" stop="20260428024847 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - Monday, April 27 | ABC News 2026-04-28 01:48</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260427162020 +0000" stop="20260427172020 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>UNSC Live | United Nations Security Council holds Meeting on Maritime Safety | Iran War | Hormuz 2026-04-27 16:19</title>
+  <programme start="20260428014847 +0000" stop="20260428024847 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>Russia-Iran News LIVE | Putin Meets Araghchi, Signals Stronger Russia Role In Iran Crisis 2026-04-28 01:48</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260427162020 +0000" stop="20260427172020 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE: WH Correspondents' Dinner shooting, Trump welcomes King Charles, Iran latest, more top stories 2026-04-27 16:20</title>
+  <programme start="20260428014847 +0000" stop="20260428024847 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE NEWS: WH Correspondents' Dinner shooting, Trump welcomes King Charles, Iran latest, top stories 2026-04-28 01:48</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260427162020 +0000" stop="20260427172020 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: White House Attacked;PM Modi Slams TMC Over Probes;Deadly Attack Kills Mali’s Defence Minister 2026-04-27 16:20</title>
+  <programme start="20260428014847 +0000" stop="20260428024847 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: White House Attacked;PM Modi Slams TMC Over Probes;Deadly Attack Kills Mali’s Defence Minister 2026-04-28 01:48</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260427162020 +0000" stop="20260427172020 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>Iran Military Control LIVE: Iran Pushes Armed Forces Authority Over Strait Of Hormuz Traffic 2026-04-27 16:20</title>
+  <programme start="20260428014847 +0000" stop="20260428024847 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>LIVE: King Charles And Queen Camilla Arrive In US For Four-Day State Visit | NewsX World 2026-04-28 01:48</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
