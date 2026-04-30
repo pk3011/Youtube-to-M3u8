@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260430015045 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260430072400 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260430015045 +0000" stop="20260430025045 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Exit Poll Results 2026 LIVE Updates | West Bengal Elections | PM Modi | Hindi News 2026-04-30 01:49</title>
+  <programme start="20260430072400 +0000" stop="20260430082400 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: Exit Poll Results 2026 Updates | West Bengal Elections | CM Yogi | Hindi News 2026-04-30 07:23</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260430015045 +0000" stop="20260430025045 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: EXIT POLL 2026 LIVE | West Bengal | Assam | Tamil Nadu | BJP | TMC | Congress 2026-04-30 01:49</title>
+  <programme start="20260430072400 +0000" stop="20260430082400 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: EXIT POLL 2026 Results LIVE | West Bengal Elections | Mamata Banerjee | PM Modi | TMC 2026-04-30 07:23</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260430015045 +0000" stop="20260430025045 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTv24x7 Official Live | Malayalam News Live | Kerala Election 2026 2026-04-30 01:50</title>
+  <programme start="20260430072400 +0000" stop="20260430082400 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTv24x7 Official Live | Malayalam News Live | Kerala Election 2026 2026-04-30 07:23</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260430015045 +0000" stop="20260430025045 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-04-30 01:50</title>
+  <programme start="20260430072400 +0000" stop="20260430082400 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-04-30 07:23</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260430015045 +0000" stop="20260430025045 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Wednesday, April 29 | ABC News 2026-04-30 01:50</title>
+  <programme start="20260430072400 +0000" stop="20260430082400 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-04-30 07:23</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260430015045 +0000" stop="20260430025045 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>LIVE | King Charles And Queen Camilla Visit 9/11 Memorial In NYC On Day 3 Of State Visit | Mamdani 2026-04-30 01:50</title>
+  <programme start="20260430072400 +0000" stop="20260430082400 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>LIVE | Hegseth SNAPS At Congresswoman Sara Jacobs After Trump Mental Stability Question | US News 2026-04-30 07:23</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260430015045 +0000" stop="20260430025045 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE: Fed holds rates steady, Trump and Artemis II crew, Iran war latest, Hegseth hearing, more 2026-04-30 01:50</title>
+  <programme start="20260430072400 +0000" stop="20260430082400 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>TOP STORIES: Fed holds rates steady, Trump and Artemis II crew, Iran war, Hegseth hearing, more 2026-04-30 07:23</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260430015045 +0000" stop="20260430025045 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: West Bengal Election Phase-2, Rain &amp; Thunderstorm In Delhi NCR , US-Iran tensions | NewsX 2026-04-30 01:50</title>
+  <programme start="20260430072400 +0000" stop="20260430082400 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: West Bengal High Turnout, Dhar Accident, Delhi Heatwave &amp; US-Iran Tensions | NewsX 2026-04-30 07:23</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260430015045 +0000" stop="20260430025045 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>London Stabbing Attack LIVE: Golders Green Stabbing Declared Terrorist Incident By Police 2026-04-30 01:50</title>
+  <programme start="20260430072400 +0000" stop="20260430082400 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>New Zealand Mosque Attack case Live:  Christchurch attacker loses appeal life sentence upheld | NXW 2026-04-30 07:24</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
