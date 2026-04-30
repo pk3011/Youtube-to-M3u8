@@ -1,20 +1,20 @@
 {
-  "total": 9,
-  "live": 9,
+  "total": 10,
+  "live": 10,
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 7,
+    "1080p": 9,
     "720p": 1,
-    "480p": 1,
+    "480p": 0,
     "other": 0
   },
   "by_category": {
-    "General": 5,
+    "General": 6,
     "News": 4
   },
   "by_country": {
-    "UK": 9
+    "UK": 10
   },
   "individual_channels": [
     {
@@ -30,6 +30,11 @@
     {
       "name": "BIGTV24X7",
       "file": "channels/bigtv24x7.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "cricketcomau",
+      "file": "channels/cricketcomau.m3u8",
       "quality": "1080p"
     },
     {
@@ -60,7 +65,7 @@
     {
       "name": "NewsX World",
       "file": "channels/newsx_world.m3u8",
-      "quality": "480p"
+      "quality": "1080p"
     }
   ]
 }
