@@ -1,15 +1,71 @@
 {
-  "total": 0,
-  "live": 0,
+  "total": 10,
+  "live": 10,
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 0,
-    "720p": 0,
+    "1080p": 9,
+    "720p": 1,
     "480p": 0,
     "other": 0
   },
-  "by_category": {},
-  "by_country": {},
-  "individual_channels": []
+  "by_category": {
+    "General": 6,
+    "News": 4
+  },
+  "by_country": {
+    "UK": 10
+  },
+  "individual_channels": [
+    {
+      "name": "Aaj Tak",
+      "file": "channels/aaj_tak.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "ABP NEWS",
+      "file": "channels/abp_news.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "BIGTV24X7",
+      "file": "channels/bigtv24x7.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "cricketcomau",
+      "file": "channels/cricketcomau.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Rajasthan Patrika",
+      "file": "channels/rajasthan_patrika.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "ABC News",
+      "file": "channels/abc_news.m3u8",
+      "quality": "720p"
+    },
+    {
+      "name": "Hindustan Times",
+      "file": "channels/hindustan_times.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "LiveNOW from FOX",
+      "file": "channels/livenow_from_fox.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "NewsX Live",
+      "file": "channels/newsx_live.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "NewsX World",
+      "file": "channels/newsx_world.m3u8",
+      "quality": "1080p"
+    }
+  ]
 }
