@@ -2,11 +2,11 @@
 #EXT-X-VERSION:3
 # Channel: Rajasthan Patrika
 # ID: UCWk-7Yosyvzln9ZzJg8BvVg
-# Quality: 1080p
+# Quality: 720p
 # Country: UK
-# Status: LIVE (as of 01:46 UTC)
-# Generated: 2026-05-04 01:46:44 UTC
-# URL expires: ~06:46 UTC (refresh playlist if expired)
+# Status: LIVE (as of 20:58 UTC)
+# Generated: 2026-05-04 20:58:20 UTC
+# URL expires: ~01:58 UTC (refresh playlist if expired)
 
-#EXTINF:-1 tvg-id="UCWk-7Yosyvzln9ZzJg8BvVg" tvg-logo="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg" tvg-name="Rajasthan Patrika" group-title="Individual",Rajasthan Patrika [1080p] ⚫ OFFLINE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777880769/ei/Yfr3aduZMsrdybgPloiS6Aw/ip/2a09:bac5:7492:31f5::4fa:1f/id/u53edpk-3W8.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-nx57ynsk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AbKmrwpullVHF6iG7PwTB9eJiaymgkQXHuumm7gLBZAimeghtmceNa-C7hZqsbkgOWHeU6AZR8IPKRRh/spc/96Xrv68bOuXMULKsPDE8kNgY-wDWZETN01dNO6rYjw3aDtrdNpgtDDoYHZyxETdX/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3810000/met/1777859170,/mh/d6/mm/44/mn/sn-nx57ynsk/ms/lva/mv/m/mvi/1/pl/38/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1777858835/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAIipi3xvlAd8HGmR2sZndwRY6KsKKxpgBdHWIXcfqsh4AiB8iyopLCm0Fkj1vCRs9OBDCUzjJ5b1wQVDrgDtoatXFA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgH19mewbkoFxL8kRN5XzGDzoxAsBFo1tHsjDS_ePC94sCIFPXRNoA5vsRwEJ6uL0S71Mjg1I1v4baeaymJeBg24RQ/playlist/index.m3u8
+#EXTINF:-1 tvg-id="UCWk-7Yosyvzln9ZzJg8BvVg" tvg-logo="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg" tvg-name="Rajasthan Patrika" group-title="Individual",Rajasthan Patrika [720p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777949868/ei/TAj5afC9BKXFkucPypSW-A4/ip/2a09:bac5:9f21:1791::259:7e/id/pTGvVuZ2_vs.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr1---sn-vgqsknde.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AbKmrwrxir12ozH2Cm6Nn2FoYHeb8tf4QtpFY0SsU-c7fBCQ-3qCFG2gHsOnfei6Tsf--9Liz25dRWOL/spc/96Xrv0oUeKG29r6JMSoH0NyclyIV31yMnG_Q0qdynTzvfBZi5smcUKEdl2p5cQ3p/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2561250/met/1777928268,/mh/fT/mm/44/mn/sn-vgqsknde/ms/lva/mv/m/mvi/1/pl/36/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1777927961/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgSOEhJytFqai_kkEGEQ4MXVMa9eqCwo4PD4h_MGiGYdUCICUe3UZpp-8ap-TaJ96JOux881uezmmNd-rLVNUw9Vqf/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMVtWMMNTO3uNTjbdv9WJBWekBvUtlylbm5kQhXd_Zl3AiEA5EI9w0DPR33dJa-uj8-Z47lnJO_P-FtcFo4QimWpsPY%3D/playlist/index.m3u8
