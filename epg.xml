@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260525205711 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260526082617 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260525205711 +0000" stop="20260525215711 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Padma Awards 2026 | Twisha Case | Petrol-Diesel | Marco Rubio | Hindi News 2026-05-25 20:56</title>
+  <programme start="20260526082617 +0000" stop="20260526092617 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: Karnataka Congress Meeting | Quad Summit | CNG Price Hike | Amit Shah | Hindi News 2026-05-26 08:25</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260525205711 +0000" stop="20260525215711 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Abhishek Banerjee | Petrol-Diesel Price | Marco Rubio | Twisha Sharma | Iran-US 2026-05-25 20:56</title>
+  <programme start="20260526082617 +0000" stop="20260526092617 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Twisha Case | Iran-US War | Abhishek Banerjee | Ebola Virus | CNG Price | PM Modi 2026-05-26 08:25</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260525205711 +0000" stop="20260525215711 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTv24x7 Official Live | Malayalam News Live  |  VD Satheesan Cabinet | UDF Government | Oath 2026-05-25 20:56</title>
+  <programme start="20260526082617 +0000" stop="20260526092617 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTv24x7 Official Live | Malayalam News Live  |  VD Satheesan Cabinet | UDF Government | Oath 2026-05-26 08:25</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>cricketcomau</display-name>
     <icon src="logos/UCkBY0aHJP9BwjZLDYxAQrKg.jpg"/>
   </channel>
-  <programme start="20260525205711 +0000" stop="20260525215711 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
-    <title>Cricket Gold - 24/7 LIVE Channel 2026-05-25 20:56</title>
+  <programme start="20260526082617 +0000" stop="20260526092617 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
+    <title>Cricket Gold - 24/7 LIVE Channel 2026-05-26 08:25</title>
     <desc>Live YouTube stream from cricketcomau</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260525205711 +0000" stop="20260525215711 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-05-25 20:56</title>
+  <programme start="20260526082617 +0000" stop="20260526092617 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-05-26 08:25</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260525205711 +0000" stop="20260525215711 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Monday, May 25 | ABC News 2026-05-25 20:56</title>
+  <programme start="20260526082617 +0000" stop="20260526092617 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-05-26 08:25</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260525205711 +0000" stop="20260525215711 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>Philippines Senate LIVE | Sara Duterte Outflanks Marcos In Shock Move To Sink Impeachment | Manila 2026-05-25 20:56</title>
+  <programme start="20260526082617 +0000" stop="20260526092617 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>LIVE: Chinese Foreign Ministry News Conference | US-Iran talks | Hormuz | India | QUAD Meeting 2026-05-26 08:26</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260525205711 +0000" stop="20260525215711 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE: Memorial Day events,  Iran war deal, White House shooting, Rubio in India, more top stories 2026-05-25 20:56</title>
+  <programme start="20260526082617 +0000" stop="20260526092617 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>NEWS: US 'self-defense' strikes in Iran, Memorial Day events, Rubio in India, CA chemical tank, more 2026-05-26 08:26</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260525205711 +0000" stop="20260525215711 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: Fuel Increase Hike | Rubio In India | Twisha Case In SC Today | NIA Crackdown | NewsX 2026-05-25 20:57</title>
+  <programme start="20260526082617 +0000" stop="20260526092617 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: CNG PRICES HIKED UP | QUAD FOREIGN MINISTERS MEET | INDIA-CANADA FTA | TWISHA DEATH PROBE 2026-05-26 08:26</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -85,8 +85,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260525205711 +0000" stop="20260525215711 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>LIVE:NEW IRAN US PEACE DEAL: WILL THE WAR END?  NewsX World 2026-05-25 20:57</title>
+  <programme start="20260526082617 +0000" stop="20260526092617 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>India US Mineral Deal Live: Quad nations launch major critical minerals security initiative 2026-05-26 08:26</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
