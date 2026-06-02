@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260602023201 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260602134659 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260602023201 +0000" stop="20260602033201 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: NEET-CBSE Case | West Bengal Cabinet Expansion | RCB | US Iran War | Hindi News 2026-06-02 02:30</title>
+  <programme start="20260602134659 +0000" stop="20260602144659 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: CBSE Case | Amritsar Student Suicide | TMC Protest | Mamata Banerjee | Hindi News 2026-06-02 13:46</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260602023201 +0000" stop="20260602033201 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: West Bengal Cabinet Expansion | Ghaziabad Encounter | Iran US War | LPG Price | RCB 2026-06-02 02:31</title>
+  <programme start="20260602134659 +0000" stop="20260602144659 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Mamata Banerjee Protest | TMC Crisis | CBSE Case | Iran US War | CM Yogi | Hindi News 2026-06-02 13:46</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260602023201 +0000" stop="20260602033201 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTv24x7 Official Live | Malayalam News Live | RCB Champions | IPL2026 | NEWS UPDATES 2026-06-02 02:31</title>
+  <programme start="20260602134659 +0000" stop="20260602144659 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTv24x7 Official Live | Malayalam News Live | BIG TV | NEWS UPDATES 2026-06-02 13:46</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>cricketcomau</display-name>
     <icon src="logos/UCkBY0aHJP9BwjZLDYxAQrKg.jpg"/>
   </channel>
-  <programme start="20260602023201 +0000" stop="20260602033201 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
-    <title>Cricket Gold - 24/7 LIVE Channel 2026-06-02 02:31</title>
+  <programme start="20260602134659 +0000" stop="20260602144659 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
+    <title>Cricket Gold - 24/7 LIVE Channel 2026-06-02 13:46</title>
     <desc>Live YouTube stream from cricketcomau</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260602023201 +0000" stop="20260602033201 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-06-02 02:31</title>
+  <programme start="20260602134659 +0000" stop="20260602144659 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-06-02 13:46</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260602023201 +0000" stop="20260602033201 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Monday, June 1 | ABC News 2026-06-02 02:31</title>
+  <programme start="20260602134659 +0000" stop="20260602144659 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - Tuesday, June 2 | ABC News 2026-06-02 13:46</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260602023201 +0000" stop="20260602033201 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>NATO-Russia Tensions LIVE | Atlantic Standoff Grows After Europe Detains Russia-Linked Oil Tanker 2026-06-02 02:31</title>
+  <programme start="20260602134659 +0000" stop="20260602144659 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>Farage LIVE | UK Row Erupts As Nigel Farage Defends Controversial 'White Lives Matter' Speech 2026-06-02 13:46</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260602023201 +0000" stop="20260602033201 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE: Iran war latest, CA primary preview, Charlie Kirk assassination case, NJ ICE protests, more 2026-06-02 02:31</title>
+  <programme start="20260602134659 +0000" stop="20260602144659 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE SOON: Sec. Rubio testifies before senate on State Department Budget 2026-06-02 13:46</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260602023201 +0000" stop="20260602033201 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: PAHALGAM TERROR ATTACK UPDATES | CYLINDER PRICE INCREASE | BENGAL CABINET EXPANSION | NewsX 2026-06-02 02:31</title>
+  <programme start="20260602134659 +0000" stop="20260602144659 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: TWISHA DEATH PROBE | DELHI STABBING | ABHISHEK ASSAULT | MANIPUR HOSTAGE CRISIS 2026-06-02 13:46</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -85,8 +85,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260602023201 +0000" stop="20260602033201 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>LIVE: South Korea Defense Plant Explosion Kills Five, Shocking Hanwha Aerospace Tragedy 2026-06-02 02:32</title>
+  <programme start="20260602134659 +0000" stop="20260602144659 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>Lebanon Evacuation LIVE : Israel Issues Urgent Evacuation Order For Nabatiyeh In Southern Lebanon 2026-06-02 13:46</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
