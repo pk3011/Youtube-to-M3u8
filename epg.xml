@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260617092547 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260617133558 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260617092547 +0000" stop="20260617102547 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Maharashtra UBT Crisis | Uddhav Thackeray | Modi | Trump | G7 Summit | Hindi News 2026-06-17 09:24</title>
+  <programme start="20260617133558 +0000" stop="20260617143558 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: PM Modi-Trump Meeting | Maharashtra UBT Crisis | Rahul Gandhi | SP | Hindi News 2026-06-17 13:35</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260617092547 +0000" stop="20260617102547 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: G-7 Summit | PM Modi | Trump | Maharashtra Politics | Shiv Sena UBT | Iran-US News 2026-06-17 09:24</title>
+  <programme start="20260617133558 +0000" stop="20260617143558 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: G-7 Summit | PM Modi | Trump | Maharashtra Politics | Shiv Sena UBT | Iran-US News 2026-06-17 13:35</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260617092547 +0000" stop="20260617102547 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Official Live | Malayalam News Live | BIG TV MALAYALAM | NEWS UPDATES |  Kerala Rain Updates 2026-06-17 09:24</title>
+  <programme start="20260617133558 +0000" stop="20260617143558 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTV Official Live | Malayalam News Live | BIG TV MALAYALAM | NEWS UPDATES |  Kerala Rain Updates 2026-06-17 13:35</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>cricketcomau</display-name>
     <icon src="logos/UCkBY0aHJP9BwjZLDYxAQrKg.jpg"/>
   </channel>
-  <programme start="20260617092547 +0000" stop="20260617102547 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
-    <title>Cricket Gold - 24/7 LIVE Channel 2026-06-17 09:25</title>
+  <programme start="20260617133558 +0000" stop="20260617143558 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
+    <title>Cricket Gold - 24/7 LIVE Channel 2026-06-17 13:35</title>
     <desc>Live YouTube stream from cricketcomau</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260617092547 +0000" stop="20260617102547 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-06-17 09:25</title>
+  <programme start="20260617133558 +0000" stop="20260617143558 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-06-17 13:35</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260617092547 +0000" stop="20260617102547 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-06-17 09:25</title>
+  <programme start="20260617133558 +0000" stop="20260617143558 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - Wednesday, June 17 | ABC News 2026-06-17 13:35</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260617092547 +0000" stop="20260617102547 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>LIVE: US Commanders' Shocking Confession On Russian Army Strength | Trump | Putin | Senate Hearing 2026-06-17 09:25</title>
+  <programme start="20260617133558 +0000" stop="20260617143558 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>LIVE: Former West Bengal CM Mamata Banerjee, TMC leaders join protest march by hawkers in Dharmatala 2026-06-17 13:35</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260617092547 +0000" stop="20260617102547 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE: Trump at G7 in France, Iran deal updates, DE hospital shooting, Primary election results, more 2026-06-17 09:25</title>
+  <programme start="20260617133558 +0000" stop="20260617143558 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE: Trump G7 Summit, Iran Strait of Hormuz agreement, Vance fraud remarks &amp; more 2026-06-17 13:35</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260617092547 +0000" stop="20260617102547 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: CALIFORNIA CRASH | RUSSIAN AIR FORCE CRASH | US-IRAN PEACE DEAL | TMC CRISIS | NAGPUR CASE 2026-06-17 09:25</title>
+  <programme start="20260617133558 +0000" stop="20260617143558 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: CALIFORNIA CRASH | RUSSIAN AIR FORCE CRASH | US-IRAN PEACE DEAL | TMC CRISIS | NAGPUR CASE 2026-06-17 13:35</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -85,8 +85,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260617092547 +0000" stop="20260617102547 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>Argentina vs Algeria Live : Lionel Messi Delivers Stunning World Cup Hat-Trick | NewsX World 2026-06-17 09:25</title>
+  <programme start="20260617133558 +0000" stop="20260617143558 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>LIVE: Israeli Airstrikes on Lebanon Raise Questions Over US-Iran Deal Stability | NewsX World 2026-06-17 13:35</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
