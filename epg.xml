@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260623082350 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260623122821 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260623082350 +0000" stop="20260623092350 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Lucknow Fire | Ram Mandir Donation Case | Shivsena UBT | US Iran Deal | Hindi News 2026-06-23 08:22</title>
+  <programme start="20260623122821 +0000" stop="20260623132821 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: Halla Bol | Lucknow Fire | Ram Mandir Donation | Delhi-NCR Weather | Hindi News 2026-06-23 12:27</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260623082350 +0000" stop="20260623092350 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Lucknow Fire | Iran US Talks | Ram Mandir Donation | Shiv Sena Crisis | Hindi News 2026-06-23 08:23</title>
+  <programme start="20260623122821 +0000" stop="20260623132821 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Lucknow Fire | Iran US Talks | Ram Mandir Donation | Shiv Sena Crisis | Hindi News 2026-06-23 12:27</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260623082350 +0000" stop="20260623092350 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Official Live | Malayalam News Live | BIG TV MALAYALAM | VD Satheesan | Kerala Budget 2026 2026-06-23 08:23</title>
+  <programme start="20260623122821 +0000" stop="20260623132821 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTV Official Live | Malayalam News Live | BIG TV MALAYALAM | VD Satheesan | Kerala Budget 2026 2026-06-23 12:27</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>cricketcomau</display-name>
     <icon src="logos/UCkBY0aHJP9BwjZLDYxAQrKg.jpg"/>
   </channel>
-  <programme start="20260623082350 +0000" stop="20260623092350 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
-    <title>Cricket Gold - 24/7 LIVE Channel 2026-06-23 08:23</title>
+  <programme start="20260623122821 +0000" stop="20260623132821 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
+    <title>Cricket Gold - 24/7 LIVE Channel 2026-06-23 12:27</title>
     <desc>Live YouTube stream from cricketcomau</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260623082350 +0000" stop="20260623092350 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-06-23 08:23</title>
+  <programme start="20260623122821 +0000" stop="20260623132821 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-06-23 12:27</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260623082350 +0000" stop="20260623092350 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-06-23 08:23</title>
+  <programme start="20260623122821 +0000" stop="20260623132821 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - Tuesday, June 23 | ABC News 2026-06-23 12:27</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260623082350 +0000" stop="20260623092350 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>LIVE From Downing Street as Starmer Announces Resignation as UK Labour Party Leader | Burnham 2026-06-23 08:23</title>
+  <programme start="20260623122821 +0000" stop="20260623132821 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>LIVE | Netanayhu Panics? Iran &amp; US Signal Momentum Toward Wider Deal After 18 Hours of Talks | Trump 2026-06-23 12:28</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260623082350 +0000" stop="20260623092350 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE: US-Iran talks, Massive fire in Houston, Primary election preview, Starmer resigns, top stories 2026-06-23 08:23</title>
+  <programme start="20260623122821 +0000" stop="20260623132821 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE NEWS: US-Iran talks, Rubio in Middle East, Reflecting pool vandalism, World Cup &amp; more 2026-06-23 12:28</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260623082350 +0000" stop="20260623092350 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: Lucknow Coaching Centre Inferno | Qatar Gas Plant Blast | BJP’s First Bengal Budget | NewsX 2026-06-23 08:23</title>
+  <programme start="20260623122821 +0000" stop="20260623132821 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: Pune Trekker Death | Bengaluru Triple Murder | Telegram Returns to Play Store | Lucknow Fire 2026-06-23 12:28</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -85,8 +85,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260623082350 +0000" stop="20260623092350 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>Russia Red Storm Live: Chelyabinsk skies turn red during powerful storms | NewsX World 2026-06-23 08:23</title>
+  <programme start="20260623122821 +0000" stop="20260623132821 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>Israel Lebanon Shooting LIVE: Israeli Gunfire Kills Two In Southern Lebanon As Truce Faces Strain 2026-06-23 12:28</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
