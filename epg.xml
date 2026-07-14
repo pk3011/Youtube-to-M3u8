@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260713204805 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260714111652 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260713204805 +0000" stop="20260713214805 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Ram Mandir | Datia By Election | Delhi Riots Case | Iran War | Trump | Hindi News 2026-07-13 20:47</title>
+  <programme start="20260714111652 +0000" stop="20260714121652 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: US Iran War | Donald Trump | Hormuz | Monsoon 2026 | Ram Mandir | Hindi News 2026-07-14 11:16</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260713204805 +0000" stop="20260713214805 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: SC on Ram Mandir Theft | Iran US War | Trump | Bangkok Pub Fire | Hindi News 2026-07-13 20:47</title>
+  <programme start="20260714111652 +0000" stop="20260714121652 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Iran US War | Trump | Hormuz | Ram Manidr Theft | Weather Update | Hindi News 2026-07-14 11:16</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260713204805 +0000" stop="20260713214805 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Official Live | Malayalam News Live | BIG TV MALAYALAM 2026-07-13 20:47</title>
+  <programme start="20260714111652 +0000" stop="20260714121652 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTV Official Live | Malayalam News Live | BIG TV MALAYALAM 2026-07-14 11:16</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>cricketcomau</display-name>
     <icon src="logos/UCkBY0aHJP9BwjZLDYxAQrKg.jpg"/>
   </channel>
-  <programme start="20260713204805 +0000" stop="20260713214805 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
-    <title>Cricket Gold - 24/7 LIVE Channel 2026-07-13 20:47</title>
+  <programme start="20260714111652 +0000" stop="20260714121652 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
+    <title>Cricket Gold - 24/7 LIVE Channel 2026-07-14 11:16</title>
     <desc>Live YouTube stream from cricketcomau</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260713204805 +0000" stop="20260713214805 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Narottam Mishra Emotional : फूट-फूटकर रोने लगे नरोत्तम मिश्रा | Ashutosh Tiwari | Datia By Election 2026-07-13 20:47</title>
+  <programme start="20260714111652 +0000" stop="20260714121652 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>E20 Petrol पर Arvind Kejriwal ने PM Modi से की 2 बड़ी मांग?। Ethanol| । Kejriwal Press Conference 2026-07-14 11:16</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260713204805 +0000" stop="20260713214805 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Monday, July 13 | ABC News 2026-07-13 20:47</title>
+  <programme start="20260714111652 +0000" stop="20260714121652 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - Tuesday, July 14 | ABC News 2026-07-14 11:16</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260713204805 +0000" stop="20260713214805 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>Donald Trump LIVE | Trump Participates In A Freedom 250 Grand Prix Showcase | Trump News | US News 2026-07-13 20:47</title>
+  <programme start="20260714111652 +0000" stop="20260714121652 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>Bastille Day Parade 2026 LIVE From Paris | France National Day 2026 | Champs-Élysées Parade | Macron 2026-07-14 11:16</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260713204805 +0000" stop="20260713214805 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE: Trump at Freedom 250 Grand Prix Showcase, Iran war, Lindsey Graham cause of death, top stories 2026-07-13 20:47</title>
+  <programme start="20260714111652 +0000" stop="20260714121652 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE: Trump welcomes Iraqi PM, US-Iran conflict, Lindsey Graham latest, SCOTUS budget hearing &amp; more 2026-07-14 11:16</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260713204805 +0000" stop="20260713214805 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: Bangkok Club Fire | Vietnam Boat Capsize | US-Iran War News | Oil Price | Sensex, Nifty Today 2026-07-13 20:47</title>
+  <programme start="20260714111652 +0000" stop="20260714121652 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: Bangkok Club Fire | Vietnam Boat Capsize | US-Iran War News | Oil Price | Sensex, Nifty Today 2026-07-14 11:16</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -85,8 +85,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260713204805 +0000" stop="20260713214805 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>France vs Spain LIVE | FIFA WORLD CUP 2026 | SEMI FINALS | FIFA | NewsXWorld 2026-07-13 20:48</title>
+  <programme start="20260714111652 +0000" stop="20260714121652 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>Hormuz Tanker Attack LIVE : Breaking: Tanker damaged after suspected missile strike near Hormuz 2026-07-14 11:16</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
