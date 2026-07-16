@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260716112610 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260716160928 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260716112610 +0000" stop="20260716122610 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: US Iran War | Jagannatha Rath Yatra | PM Modi | Ram Mandir Donation | Hindi News 2026-07-16 11:25</title>
+  <programme start="20260716160928 +0000" stop="20260716170928 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: Black And White | US Iran War | Jagannatha Rath Yatra | PM Modi | Ram Mandir 2026-07-16 16:08</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260716112610 +0000" stop="20260716122610 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Iran US War | Jagannath Rath Yatra | PoK Protest | Azam Khan | Ram Mandir Theft 2026-07-16 11:25</title>
+  <programme start="20260716160928 +0000" stop="20260716170928 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Iran US War | Jagannath Rath Yatra | PoK Protest | Azam Khan | Ram Mandir Theft 2026-07-16 16:08</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260716112610 +0000" stop="20260716122610 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Official Live | Malayalam News Live | BIG TV MALAYALAM 2026-07-16 11:25</title>
+  <programme start="20260716160928 +0000" stop="20260716170928 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTV Official Live | Malayalam News Live | BIG TV MALAYALAM 2026-07-16 16:08</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>cricketcomau</display-name>
     <icon src="logos/UCkBY0aHJP9BwjZLDYxAQrKg.jpg"/>
   </channel>
-  <programme start="20260716112610 +0000" stop="20260716122610 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
-    <title>Cricket Gold - 24/7 LIVE Channel 2026-07-16 11:25</title>
+  <programme start="20260716160928 +0000" stop="20260716170928 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
+    <title>Cricket Gold - 24/7 LIVE Channel 2026-07-16 16:08</title>
     <desc>Live YouTube stream from cricketcomau</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260716112610 +0000" stop="20260716122610 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Sonam Wangchuk Hunger Strike पर Shankaracharya की बड़ी अपील! Cockroach Janta Party| Jantar Mantar 2026-07-16 11:25</title>
+  <programme start="20260716160928 +0000" stop="20260716170928 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Sonam Wangchuk Hunger Strike पर Shankaracharya की बड़ी अपील! Cockroach Janta Party| Jantar Mantar 2026-07-16 16:08</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260716112610 +0000" stop="20260716122610 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Thursday, July 16 | ABC News 2026-07-16 11:25</title>
+  <programme start="20260716160928 +0000" stop="20260716170928 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - Thursday, July 16 | ABC News 2026-07-16 16:08</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260716112610 +0000" stop="20260716122610 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>Sonam Wangchuk Hunger Strike LIVE: Govt Breaks Silence on Wangchuk's Hunger Strike | CJP Protests 2026-07-16 11:25</title>
+  <programme start="20260716160928 +0000" stop="20260716170928 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>LIVE | Iran Targets Bahrain and Kuwait as US Launches More Airstrikes | War News Live 2026-07-16 16:09</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260716112610 +0000" stop="20260716122610 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE: Trump primetime address, Leavitt WH press briefing 1PM ET, Iran latest, Blanche senate hearing 2026-07-16 11:25</title>
+  <programme start="20260716160928 +0000" stop="20260716170928 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE: Trump primetime address, Leavitt WH press briefing 1PM ET, Iran latest, Blanche senate hearing 2026-07-16 16:09</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260716112610 +0000" stop="20260716122610 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE NEWS: INDIAN MAN STABBED IN US | SONAM WANGCHUK FAST | ASSAM RIFLES IED BLAST | US IRAN UPDATES 2026-07-16 11:26</title>
+  <programme start="20260716160928 +0000" stop="20260716170928 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE NEWS: INDIAN MAN STABBED IN US | SONAM WANGCHUK FAST | ASSAM RIFLES IED BLAST | US IRAN UPDATES 2026-07-16 16:09</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -85,8 +85,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260716112610 +0000" stop="20260716122610 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>LIVE: Iraq activates air defence after reported Iranian drone threat over Erbil overnight | NewsX Wo 2026-07-16 11:26</title>
+  <programme start="20260716160928 +0000" stop="20260716170928 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>LIVE : US Forces Launch Precision Strikes Against Iran as Regional Tensions Escalate Dramatically 2026-07-16 16:09</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
