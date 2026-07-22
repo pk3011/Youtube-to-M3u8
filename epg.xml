@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260722114138 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260722161352 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260722114138 +0000" stop="20260722124138 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Dangal | Rahul Gandhi | Congress Protest | Wangchuk | Monsoon Session | Hindi News 2026-07-22 11:40</title>
+  <programme start="20260722161352 +0000" stop="20260722171352 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: Black and White | JP Nadda | Congress Protest | Sonam Wangchuk | BJP | Hindi News 2026-07-22 16:12</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260722114138 +0000" stop="20260722124138 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Congress Protest | Bihar Protest | Rahul Gandhi | Jantar Mantar | Sonam Wangchuk 2026-07-22 11:40</title>
+  <programme start="20260722161352 +0000" stop="20260722171352 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Congress Protest | Bihar Protest | Rahul Gandhi | Jantar Mantar | Sonam Wangchuk 2026-07-22 16:12</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260722114138 +0000" stop="20260722124138 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Live| Malayalam News Live |BIG TV MALAYALAM | Argentina | Spain |Messi | Ferran Torres 2026-07-22 11:40</title>
+  <programme start="20260722161352 +0000" stop="20260722171352 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTV Live| Malayalam News Live |BIG TV MALAYALAM | Argentina | Spain |Messi | Ferran Torres 2026-07-22 16:13</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>cricketcomau</display-name>
     <icon src="logos/UCkBY0aHJP9BwjZLDYxAQrKg.jpg"/>
   </channel>
-  <programme start="20260722114138 +0000" stop="20260722124138 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
-    <title>Cricket Gold - 24/7 LIVE Channel 2026-07-22 11:41</title>
+  <programme start="20260722161352 +0000" stop="20260722171352 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
+    <title>Cricket Gold - 24/7 LIVE Channel 2026-07-22 16:13</title>
     <desc>Live YouTube stream from cricketcomau</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260722114138 +0000" stop="20260722124138 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Rahul Gandhi PM House Protest: रिहा होते Priyanka Gandhi की डिमांड | Rahul Gandhi | CJP Protest 2026-07-22 11:41</title>
+  <programme start="20260722161352 +0000" stop="20260722171352 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Parliament Session: लाठीचार्ज मामले में Loksabha में Om Birla से भिड़े Akhilesh Yadav | Paper Leak 2026-07-22 16:13</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260722114138 +0000" stop="20260722124138 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Wednesday, July 22 | ABC News 2026-07-22 11:41</title>
+  <programme start="20260722161352 +0000" stop="20260722171352 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - Wednesday, July 22 | ABC News 2026-07-22 16:13</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260722114138 +0000" stop="20260722124138 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>CJP Protests LIVE | Student Protest Grows As Patna, Jaipur Back Jantar Mantar Movement | Delhi  LIVE 2026-07-22 11:41</title>
+  <programme start="20260722161352 +0000" stop="20260722171352 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>Jantar Mantar Protest LIVE | Nihang Singhs, Farmers, Wrestlers Gather At Jantar Mantar | CJP LIVE 2026-07-22 16:13</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260722114138 +0000" stop="20260722124138 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE NEWS: Iran War price tag, Trump ally wins AZ gov. nomination, Trump travels to GA 2026-07-22 11:41</title>
+  <programme start="20260722161352 +0000" stop="20260722171352 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE NEWS: Iran War price tag, Trump ally wins AZ gov. nomination, Trump travels to GA 2026-07-22 16:13</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260722114138 +0000" stop="20260722124138 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: MANGAL MILAN MEETING | PARLIAMENT SHOWDOWN | SONAM WANGCHUK HEALTH | CJP PROTEST | NewsX 2026-07-22 11:41</title>
+  <programme start="20260722161352 +0000" stop="20260722171352 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: MANGAL MILAN MEETING | PARLIAMENT SHOWDOWN | SONAM WANGCHUK HEALTH | CJP PROTEST | NewsX 2026-07-22 16:13</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -85,8 +85,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260722114138 +0000" stop="20260722124138 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>Thailand Cambodia Border Tension Live: Thailand presses on with border fence along Cambodia frontier 2026-07-22 11:41</title>
+  <programme start="20260722161352 +0000" stop="20260722171352 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>Tehran Activates Air Defenses LIVE: US Airstrikes Intensify Raising Global Security Concerns 2026-07-22 16:13</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
