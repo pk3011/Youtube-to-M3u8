@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260723072710 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260723205054 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260723072710 +0000" stop="20260723082710 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: PM Modi on Paper Leak | Parliament Session | Sonam Wangchuk | CJP | Hindi News 2026-07-23 07:26</title>
+  <programme start="20260723205054 +0000" stop="20260723215054 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV:Sonam Wangchuk Breaks Hunger Strike|PM Modi on Paper Leak |   CJP Protest|Hindi News 2026-07-23 20:50</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260723072710 +0000" stop="20260723082710 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Jantar Manta Protest Update | CJP | Rahul Gandhi | Sonam Wangchuk | Iran US War 2026-07-23 07:26</title>
+  <programme start="20260723205054 +0000" stop="20260723215054 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Congress Meeting | CJP Protest | Jantar Mantar | Rahul Gandhi | Sonam Wangchuk 2026-07-23 20:50</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260723072710 +0000" stop="20260723082710 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Live| Malayalam News Live |BIG TV MALAYALAM | CJP | NEET Exam |Jantar Mantar | Congress | Modi 2026-07-23 07:26</title>
+  <programme start="20260723205054 +0000" stop="20260723215054 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTV Live| Malayalam News Live |BIG TV MALAYALAM | CJP | NEET Exam |Jantar Mantar | Congress | Modi 2026-07-23 20:50</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>cricketcomau</display-name>
     <icon src="logos/UCkBY0aHJP9BwjZLDYxAQrKg.jpg"/>
   </channel>
-  <programme start="20260723072710 +0000" stop="20260723082710 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
-    <title>Cricket Gold - 24/7 LIVE Channel 2026-07-23 07:26</title>
+  <programme start="20260723205054 +0000" stop="20260723215054 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
+    <title>Cricket Gold - 24/7 LIVE Channel 2026-07-23 20:50</title>
     <desc>Live YouTube stream from cricketcomau</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260723072710 +0000" stop="20260723082710 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>CJP Protest Live: भारी पड़ा छात्रों पर लाठीचार्ज | देशभर में फैली आग | CJP Protest Live | Modi | BJP 2026-07-23 07:26</title>
+  <programme start="20260723205054 +0000" stop="20260723215054 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>CJP Protest: प्रोटेस्ट का भयावह सच!| Jantar Mantar | Cockroach Janta Party | Delhi Police | Abhijeet 2026-07-23 20:50</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260723072710 +0000" stop="20260723082710 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-07-23 07:26</title>
+  <programme start="20260723205054 +0000" stop="20260723215054 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: President Trump hosts World Series champion Los Angeles Dodgers 2026-07-23 20:50</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260723072710 +0000" stop="20260723082710 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>Pushkar Singh Dhami LIVE | CM Pushkar Singh Dhami Big Announcement | Development Projects 2026-07-23 07:26</title>
+  <programme start="20260723205054 +0000" stop="20260723215054 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>LIVE | Karoline Leavitt Grilled Over Trump's Saudi Nuclear Deal During White House Briefing |US News 2026-07-23 20:50</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260723072710 +0000" stop="20260723082710 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE: Trump speaks in GA, Tracking Bertha in the Gulf, Flash flooding updates, Iran latest, more 2026-07-23 07:26</title>
+  <programme start="20260723205054 +0000" stop="20260723215054 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE: Trump hosts 2025 World Series Champions LA Dodgers 2026-07-23 20:50</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260723072710 +0000" stop="20260723082710 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: JANTAR MANTAR PROTEST | PARLIAMENT MONSOON SESSION | ANANTNAG TERROR ATTACK |  ASSAM FLOODS 2026-07-23 07:27</title>
+  <programme start="20260723205054 +0000" stop="20260723215054 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: JANTAR MANTAR PROTEST | PARLIAMENT MONSOON SESSION | ANANTNAG TERROR ATTACK |  ASSAM FLOODS 2026-07-23 20:50</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -85,8 +85,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260723072710 +0000" stop="20260723082710 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>Canada Massive Fire Live: Thick wildfire smoke blankets Canada US border regions |NewsX World 2026-07-23 07:27</title>
+  <programme start="20260723205054 +0000" stop="20260723215054 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>LIVE: Andrew And Tristan Tate Fight UK Extradition As Serious Criminal Charges Mount In Florida |NXW 2026-07-23 20:50</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
