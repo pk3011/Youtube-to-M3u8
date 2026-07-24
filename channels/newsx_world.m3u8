@@ -2,11 +2,11 @@
 #EXT-X-VERSION:3
 # Channel: NewsX World
 # ID: UCvu9pKtF3Y8KaJVD-WMiOrg
-# Quality: 480p
+# Quality: 1080p
 # Country: UK
-# Status: LIVE (as of 07:25 UTC)
-# Generated: 2026-07-24 07:25:18 UTC
-# URL expires: ~12:25 UTC (refresh playlist if expired)
+# Status: LIVE (as of 11:29 UTC)
+# Generated: 2026-07-24 11:29:45 UTC
+# URL expires: ~16:29 UTC (refresh playlist if expired)
 
-#EXTINF:-1 tvg-id="UCvu9pKtF3Y8KaJVD-WMiOrg" tvg-logo="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg" tvg-name="NewsX World" group-title="Individual",NewsX World [480p] 🔴 LIVE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784899518/ei/XhNjasnEHJ6Nr9gPgL3skAg/ip/2a09:bac1:76e1:6298::50b:94/id/oLJ6gn-uz7E.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hls_chunk_host/rr72---sn-4o.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhN99Y7mRjrjwQaLV-wm02O8UiFm1dYrGOeKpbIeAnuKh87ioKIBDvK-6kKmpDO_8OGTZUyWEyHH/spc/SQ-umnvRJpRMtrHpyD2hGqi5U0kxFRSMAeHeeJLQuYDKwTiUKF_-78-ZkkIRCfnX/vprv/1/reg/0/playlist_type/DVR/initcwndbps/5193750/met/1784877918,/mh/-7/mm/44/mn/sn-4o/ms/lva/mv/m/mvi/72/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51992867/mt/1784877627/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgSFq5Hf79qE3FUG6_sAiNew4CNexYjn_tsQZT32pjEX8CIQCU2eH7Lq1AJ_ShzCUHT3KcAX6f9sFyv3COgbZ0D2BiRA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAIvG6BCYr5x5bip95kkCPNWBOAClHBK1_o9_tt5LitgOAiEA-6Tvwqf_9Mks5sGuX8C3M8kgnLkwqQGShvtOLDFNEfk%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="UCvu9pKtF3Y8KaJVD-WMiOrg" tvg-logo="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg" tvg-name="NewsX World" group-title="Individual",NewsX World [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784914184/ei/qExjapa6OrPfybgPjOm_0Qg/ip/2a09:bac1:76c0:c8::4f9:21/id/TuXtJlVnnhQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-2on4v5-5j.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhOC6IWBv7XkH7gSS7_UBYAR8KN7z4SZg9-yUxdkKMKwFWkfuwDi3auUMPY0utHz9O-B5kGnnrhx/spc/SQ-umjZLvTbDG4e_Yz7XrrSIqj8ZNzUGNHgv8y7NngYwonTUClj1myFEDw0QVwps/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3088750/met/1784892585,/mh/lL/mm/44/mn/sn-2on4v5-5j/ms/lva/mv/m/mvi/4/pl/49/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51992867/mt/1784892269/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAJ4S5tD1R5rLhS_FZNEz1x5qq8uje15VxoKUtzaBaxvqAiBrKNyw8zb2CamwTrKM1lBG3Vdag9TWEV3p67LdjQ6WzA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAJl6UIMpTqbogDmPQKT6DbtFQXXK1akq6UpjtIrdJQWOAiBMjWUZS3BflNmR1wRTUtAw-ZbyTSqSZVrG8ZIokjlI7g%3D%3D/playlist/index.m3u8
