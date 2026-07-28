@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260728073100 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260728115001 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260728073100 +0000" stop="20260728083100 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Paper Leak Bill | Parliament Monsoon Session | NDA Meeting | CJP | Hindi News 2026-07-28 07:30</title>
+  <programme start="20260728115001 +0000" stop="20260728125001 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: Priyanka Gandhi | Dangal | Anti Paper Leak Bill | Parliament Monsoon Session | PM 2026-07-28 11:49</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260728073100 +0000" stop="20260728083100 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Parliament Monsoon Session | Paper Leak Bill | PM Modi | NDA Meeting | Heavy Rain 2026-07-28 07:30</title>
+  <programme start="20260728115001 +0000" stop="20260728125001 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Parliament Monsoon Session | Paper Leak Bill | PM Modi | NDA Meeting | Heavy Rain 2026-07-28 11:49</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260728073100 +0000" stop="20260728083100 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Live| Malayalam News Live |BIG TV MALAYALAM | CJP | Dharmendra Pradhan Resignation 2026-07-28 07:30</title>
+  <programme start="20260728115001 +0000" stop="20260728125001 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTV Live| Malayalam News Live |BIG TV MALAYALAM | CJP | Dharmendra Pradhan Resignation 2026-07-28 11:49</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>cricketcomau</display-name>
     <icon src="logos/UCkBY0aHJP9BwjZLDYxAQrKg.jpg"/>
   </channel>
-  <programme start="20260728073100 +0000" stop="20260728083100 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
-    <title>Cricket Gold - 24/7 LIVE Channel 2026-07-28 07:30</title>
+  <programme start="20260728115001 +0000" stop="20260728125001 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
+    <title>Cricket Gold - 24/7 LIVE Channel 2026-07-28 11:49</title>
     <desc>Live YouTube stream from cricketcomau</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260728073100 +0000" stop="20260728083100 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Dharmendra Pradhan Resignation: धर्मेंद्र प्रधान के इस्तीफे के बाद भी संसद में हंगामा जारी! 2026-07-28 07:30</title>
+  <programme start="20260728115001 +0000" stop="20260728125001 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Dharmendra Pradhan की संसद में एंट्री देख हैरान Abhijeet Dipke | Breaking News | Parliament Live 2026-07-28 11:49</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260728073100 +0000" stop="20260728083100 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-07-28 07:30</title>
+  <programme start="20260728115001 +0000" stop="20260728125001 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - Tuesday, July 28 | ABC News 2026-07-28 11:49</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260728073100 +0000" stop="20260728083100 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>Lok Sabha Day 7 LIVE | Parliament Session | CJP | Anti Paper Leak Bill | Rahul Gandhi | PM Modi News 2026-07-28 07:30</title>
+  <programme start="20260728115001 +0000" stop="20260728125001 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>LIVE | Iran Challenges U.S. Dominance: Mojtaba Declares Washington Won't Dictate Gulf War | Trump 2026-07-28 11:49</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260728073100 +0000" stop="20260728083100 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE: Trump visits Michigan, Seattle mass shooting updates, 2026 midterms latest, more top stories 2026-07-28 07:30</title>
+  <programme start="20260728115001 +0000" stop="20260728125001 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE NEWS: Lindsey Graham funeral, Trump meets with Netanyahu &amp; Zelenskyy, Japan earthquake &amp; more 2026-07-28 11:49</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260728073100 +0000" stop="20260728083100 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: Public Examinations Act Amendment Bill 2026 | NTA Exam Reforms | Sreelekha Mitra Booked |NewsX 2026-07-28 07:30</title>
+  <programme start="20260728115001 +0000" stop="20260728125001 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: Public Examinations Act Amendment Bill 2026 | NTA Exam Reforms | Sreelekha Mitra Booked |NewsX 2026-07-28 11:49</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -85,8 +85,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260728073100 +0000" stop="20260728083100 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>Washington Protest LIVE : Protesters Rally in Washington Against Netanyahu Visit | NewsX World 2026-07-28 07:31</title>
+  <programme start="20260728115001 +0000" stop="20260728125001 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>Japan Mall Blast LIVE : Deadly Blast Strikes Japan's AEON Mall Following Powerful Earthquake 2026-07-28 11:50</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
