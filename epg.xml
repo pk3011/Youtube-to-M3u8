@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260807104131 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260807154314 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260807104131 +0000" stop="20260807114131 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Ranchi Student Protest | Parliament Session | PM Modi | Rahul Gandhi | Hindi News 2026-08-07 10:40</title>
+  <programme start="20260807154314 +0000" stop="20260807164314 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: Black And White | Rahul Gandhi on E20 Petrol | Ranchi Student Protest | Parliament 2026-08-07 15:42</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260807104131 +0000" stop="20260807114131 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Ranchi Student Protest | Parliament Session | Rahul Gandhi | Atiq Ahmed Son Death 2026-08-07 10:40</title>
+  <programme start="20260807154314 +0000" stop="20260807164314 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Ranchi Student Protest | Parliament Session | Rahul Gandhi | Atiq Ahmed Son Death 2026-08-07 15:42</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260807104131 +0000" stop="20260807114131 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Kerala Rain | flash flood | Lanslide 2026-08-07 10:40</title>
+  <programme start="20260807154314 +0000" stop="20260807164314 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Kerala Rain | flash flood | Lanslide 2026-08-07 15:42</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>cricketcomau</display-name>
     <icon src="logos/UCkBY0aHJP9BwjZLDYxAQrKg.jpg"/>
   </channel>
-  <programme start="20260807104131 +0000" stop="20260807114131 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
-    <title>Cricket Gold - 24/7 LIVE Channel 2026-08-07 10:40</title>
+  <programme start="20260807154314 +0000" stop="20260807164314 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
+    <title>Cricket Gold - 24/7 LIVE Channel 2026-08-07 15:42</title>
     <desc>Live YouTube stream from cricketcomau</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260807104131 +0000" stop="20260807114131 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>CJP Party में बड़ी बगावत| Abhijeet Dipke के घर भूख हड़ताल| CJP Meeting | Cockroach Janata Party News 2026-08-07 10:40</title>
+  <programme start="20260807154314 +0000" stop="20260807164314 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Atiq Ahmed Son Accident: रुला गई Aban Ahmed की गुहार!| Jhansi | Abaan Ahmed Accident | CM Yogi 2026-08-07 15:42</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260807104131 +0000" stop="20260807114131 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Friday, August 7 | ABC News 2026-08-07 10:41</title>
+  <programme start="20260807154314 +0000" stop="20260807164314 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - Friday, August 7 | ABC News 2026-08-07 15:42</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260807104131 +0000" stop="20260807114131 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>LIVE | Senate Panel Votes on Fauci Contempt Resolution After Tense Hearing | Covid | US Senate LIVE 2026-08-07 10:41</title>
+  <programme start="20260807154314 +0000" stop="20260807164314 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>Sachs Live: 'Don't Provoke Russia' Jeffrey Sachs' Chilling Prediction Goes Viral | Ukraine War 2026-08-07 15:42</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260807104131 +0000" stop="20260807114131 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE NEWS: Trump roundtable, Thailand shooting, Fauci contempt, Reflecting pool controversy &amp; more 2026-08-07 10:41</title>
+  <programme start="20260807154314 +0000" stop="20260807164314 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE NEWS: Trump roundtable, Thailand shooting, Fauci contempt, Reflecting pool controversy &amp; more 2026-08-07 15:42</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX Live</display-name>
     <icon src="logos/UCytSP0M0Jdnw6qIy3Y-nTig.jpg"/>
   </channel>
-  <programme start="20260807104131 +0000" stop="20260807114131 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
-    <title>LIVE: Delhi Under Monsoon Spell | JPSC-JSSC Protest | Trump's Marine One Incident | Sheikh Hasina 2026-08-07 10:41</title>
+  <programme start="20260807154314 +0000" stop="20260807164314 +0000" channel="UCytSP0M0Jdnw6qIy3Y-nTig">
+    <title>LIVE: Delhi Under Monsoon Spell | JPSC-JSSC Protest | Trump's Marine One Incident | Sheikh Hasina 2026-08-07 15:43</title>
     <desc>Live YouTube stream from NewsX Live</desc>
     <category>Live</category>
   </programme>
@@ -85,8 +85,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260807104131 +0000" stop="20260807114131 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>LIVE: Mexican TikTok influencer César Gastélum killed during livestream broadcastMexican TikTok infl 2026-08-07 10:41</title>
+  <programme start="20260807154314 +0000" stop="20260807164314 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>Sri Lanka Prison Riots LIVE: Three Dead, 23 Injured Amid Overcrowding Crisis | NewsX World 2026-08-07 15:43</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
