@@ -50,12 +50,12 @@
     {
       "name": "LiveNOW from FOX",
       "file": "channels/livenow_from_fox.m3u8",
-      "quality": "720p"
+      "quality": "1080p"
     },
     {
       "name": "NewsX World",
       "file": "channels/newsx_world.m3u8",
-      "quality": "1080p"
+      "quality": "720p"
     }
   ]
 }
