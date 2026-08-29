@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260829175940 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260829220639 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260829175940 +0000" stop="20260829185940 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Mohan Bhagwat NYC | Rahul Gandhi | Nepal Flash Flood News | PM Modi | Hindi News 2026-08-29 17:58</title>
+  <programme start="20260829220639 +0000" stop="20260829230639 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: Mohan Bhagwat NYC | Rahul Gandhi | Nepal Flash Flood News | PM Modi | Hindi News 2026-08-29 22:05</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,26 +13,17 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260829175940 +0000" stop="20260829185940 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Nepal Flash Floods Updates | CNG Price Hike | Balen Shah | PM Modi visit Uzbekistan 2026-08-29 17:58</title>
+  <programme start="20260829220639 +0000" stop="20260829230639 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Nepal Flash Floods Updates | CNG Price Hike | Balen Shah | PM Modi visit Uzbekistan 2026-08-29 22:05</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
-    <category>Live</category>
-  </programme>
-  <channel id="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <display-name>BIGTV24X7</display-name>
-    <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
-  </channel>
-  <programme start="20260829175940 +0000" stop="20260829185940 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Onam 2026 | Breaking News | Latest News 2026-08-29 17:58</title>
-    <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
   <channel id="UCkBY0aHJP9BwjZLDYxAQrKg">
     <display-name>cricketcomau</display-name>
     <icon src="logos/UCkBY0aHJP9BwjZLDYxAQrKg.jpg"/>
   </channel>
-  <programme start="20260829175940 +0000" stop="20260829185940 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
-    <title>Cricket Gold - 24/7 LIVE Channel 2026-08-29 17:59</title>
+  <programme start="20260829220639 +0000" stop="20260829230639 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
+    <title>Cricket Gold - 24/7 LIVE Channel 2026-08-29 22:05</title>
     <desc>Live YouTube stream from cricketcomau</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +31,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260829175940 +0000" stop="20260829185940 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-08-29 17:59</title>
+  <programme start="20260829220639 +0000" stop="20260829230639 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-08-29 22:05</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +40,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260829175940 +0000" stop="20260829185940 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Saturday, August 29 | ABC News 2026-08-29 17:59</title>
+  <programme start="20260829220639 +0000" stop="20260829230639 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-08-29 22:06</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +49,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260829175940 +0000" stop="20260829185940 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>Jeffrey Sachs Live | Sachs' Trump Warning Goes Viral Amid Iran War | Jeffrey Sachs Speech 2026-08-29 17:59</title>
+  <programme start="20260829220639 +0000" stop="20260829230639 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>Jeffrey Sachs Live | Sachs' Trump Warning Goes Viral Amid Iran War | Jeffrey Sachs Speech 2026-08-29 22:06</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -67,18 +58,18 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260829175940 +0000" stop="20260829185940 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE: Iran war latest, US-Canada trade war, Clancy trial updates, Nepal-Tibet floods, top stories 2026-08-29 17:59</title>
+  <programme start="20260829220639 +0000" stop="20260829230639 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE: Iran war latest, US-Canada trade war, Clancy trial updates, Nepal-Tibet floods, top stories 2026-08-29 22:06</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
   <channel id="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <display-name>NewsX World</display-name>
+    <display-name>Unknown</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260829175940 +0000" stop="20260829185940 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>Sevilla vs Atlético Madrid LIVE: LaLiga Clash | Watchalong &amp; Live Scores | NXW 2026-08-29 17:59</title>
-    <desc>Live YouTube stream from NewsX World</desc>
+  <programme start="20260829220639 +0000" stop="20260829230639 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>Juventus vs Parma LIVE: Serie A Clash | Watchalong &amp; Live Scores | NXW 2026-08-29 22:06</title>
+    <desc>Live YouTube stream from Unknown</desc>
     <category>Live</category>
   </programme>
 </tv>
