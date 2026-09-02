@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260901221025 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260902091043 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260901221025 +0000" stop="20260901231025 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: SCO Summit | Modi-Putin-Jinping Meet | Nepal Flood | Rahul Gandhi | Hindi News 2026-09-01 22:09</title>
+  <programme start="20260902091043 +0000" stop="20260902101043 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: US-Iran War | Nepal Flood | Ram Mandir Trust CEO | Rahul Gandhi | Hindi News 2026-09-02 09:09</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260901221025 +0000" stop="20260901231025 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: PM Modi SCO Summit | Nepal Flash Floods | Rahul Gandhi | CNG Price Hike | India GDP 2026-09-01 22:09</title>
+  <programme start="20260902091043 +0000" stop="20260902101043 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Iran US War Update | Nepal Floods | Ram Mandir Trust CEO | Rahul Gandhi | Hindi News 2026-09-02 09:09</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260901221025 +0000" stop="20260901231025 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Aranmula Vallamkali | Latest News 2026-09-01 22:09</title>
+  <programme start="20260902091043 +0000" stop="20260902101043 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Aranmula Vallamkali | Latest News 2026-09-02 09:10</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>cricketcomau</display-name>
     <icon src="logos/UCkBY0aHJP9BwjZLDYxAQrKg.jpg"/>
   </channel>
-  <programme start="20260901221025 +0000" stop="20260901231025 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
-    <title>Cricket Gold - 24/7 LIVE Channel 2026-09-01 22:09</title>
+  <programme start="20260902091043 +0000" stop="20260902101043 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
+    <title>Cricket Gold - 24/7 LIVE Channel 2026-09-02 09:10</title>
     <desc>Live YouTube stream from cricketcomau</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260901221025 +0000" stop="20260901231025 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-09-01 22:09</title>
+  <programme start="20260902091043 +0000" stop="20260902101043 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Anti Reservation पर  फिर गरजे Chirag Paswan,सवर्णों पर क्या बोले? Reservation Hatao Andolan। Bihar 2026-09-02 09:10</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260901221025 +0000" stop="20260901231025 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Tuesday, September 1 | ABC News 2026-09-01 22:09</title>
+  <programme start="20260902091043 +0000" stop="20260902101043 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-09-02 09:10</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260901221025 +0000" stop="20260901231025 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>Jeffrey Sachs Live | Sachs' Trump Warning Goes Viral Amid Iran War | Jeffrey Sachs Speech 2026-09-01 22:10</title>
+  <programme start="20260902091043 +0000" stop="20260902101043 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>Nepal Flood Live Updates: PM Balen Shah Update Parliament on Floods, Rescue Operations | Kathmandu 2026-09-02 09:10</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260901221025 +0000" stop="20260901231025 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE: Jurors can't reach decision in Clancy trial, US-Iran war, Tracking Edouard &amp; more 2026-09-01 22:10</title>
+  <programme start="20260902091043 +0000" stop="20260902101043 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE: Middle East latest, Charlie Kirk murder case, Clancy trial updates, Tracking Edouard, more 2026-09-02 09:10</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260901221025 +0000" stop="20260901231025 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>LIVE : Israel Strikes Gaza After Hamas Raid Detected, Palestinian Officials Report Children Killed | 2026-09-01 22:10</title>
+  <programme start="20260902091043 +0000" stop="20260902101043 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>Iran Strikes Kuwait Base LIVE : IRGC Claims US Personnel Killed In Kuwait Base Attack | NewsX World 2026-09-02 09:10</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
