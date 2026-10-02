@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20261002025435 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20261002232402 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20261002025435 +0000" stop="20261002035435 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Gandhi Jayanti | CJP | CEC Gyanesh Kumar | INDIA Alliance | PM Modi | Rahul Gandhi 2026-10-02 02:53</title>
+  <programme start="20261002232402 +0000" stop="20261003002402 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: UP-Punjab New Congress President | INDIA Alliance-CJP Protest | SIR | Hindi News 2026-10-02 23:23</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20261002025435 +0000" stop="20261002035435 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Flydubai Flight | Gyanesh Kumar | Rahul Gandhi | LPG Gas Price | PM Modi | SIR News 2026-10-02 02:53</title>
+  <programme start="20261002232402 +0000" stop="20261003002402 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Jantar Mantar Protest | Gandhi Jayanti | Flydubai Flight | Gyanesh Kumar | CJP | AAP 2026-10-02 23:23</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20261002025435 +0000" stop="20261002035435 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Latest News 2026-10-02 02:53</title>
+  <programme start="20261002232402 +0000" stop="20261003002402 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Latest News 2026-10-02 23:23</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20261002025435 +0000" stop="20261002035435 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>FlyDubai Flight : Indian Pilot ने चाकू खाकर बचाई 180 जान | Indian Pilot Crash Dubai | Cockpit Fight 2026-10-02 02:54</title>
+  <programme start="20261002232402 +0000" stop="20261003002402 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>FlyDubai Case Truth : Netanyahu ने रची FlyDubai की साजिश ? | FlyDubai Horror First Video | Iran News 2026-10-02 23:23</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20261002025435 +0000" stop="20261002035435 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Thursday, October 1 2026-10-02 02:54</title>
+  <programme start="20261002232402 +0000" stop="20261003002402 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - Friday, October 2 2026-10-02 23:23</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20261002025435 +0000" stop="20261002035435 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>Donald Trump LIVE: “LOUSY POLITICIANS” Trump Rips Into Trade Policies at Texas Truck Plant 2026-10-02 02:54</title>
+  <programme start="20261002232402 +0000" stop="20261003002402 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>Putin Live l Putin Attends Center-2026 Military Exercises in Chelyabinsk | Russia News LIVE 2026-10-02 23:23</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20261002025435 +0000" stop="20261002035435 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE NEWS: Trump speaks in Oklahoma, Vance in Florida, TN execution latest, more top stories 2026-10-02 02:54</title>
+  <programme start="20261002232402 +0000" stop="20261003002402 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE: President Donald Trump Rally in Mobile, Alabama ahead of the Midterms 2026-10-02 23:23</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20261002025435 +0000" stop="20261002035435 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>Libya’s Teachers Strike LIVE : Nationwide, Delaying New Academic Year Amid Growing Education Crisis 2026-10-02 02:54</title>
+  <programme start="20261002232402 +0000" stop="20261003002402 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>WATCH BOSNIA &amp; HERZEGOVINA VS SWEDEN LIVE | UEFA NATIONS LEAGUE 2026 | FOOTBALL LIVE | NEWSX WORLD 2026-10-02 23:24</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
