@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20261023224339 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20261024220520 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20261023224339 +0000" stop="20261023234339 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Neha Bora | UP MLC Election | Congress Rally | India China Tension |Student Protest 2026-10-23 22:42</title>
+  <programme start="20261024220520 +0000" stop="20261024230520 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: Anant Singh | Neha Bora | India Alliance | Rahul Gandhi |France Protest |Hindi News 2026-10-24 22:04</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20261023224339 +0000" stop="20261023234339 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Imarn Masood | Neha Bora | Congress Rally | UP MLC Election | India China Tension 2026-10-23 22:42</title>
+  <programme start="20261024220520 +0000" stop="20261024230520 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Anant Singh | JDU | Congress Rally | Jamia Protest | Rahul Gandhi | Neha Bora Case 2026-10-24 22:04</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20261023224339 +0000" stop="20261023234339 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Pinarayi Vijayan | ED | Kerala Governor 2026-10-23 22:42</title>
+  <programme start="20261024220520 +0000" stop="20261024230520 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Pinarayi Vijayan | ED | Kerala Governor 2026-10-24 22:04</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20261023224339 +0000" stop="20261023234339 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Neha Bora ने India-Bangladesh Relation पर लगाया बड़ा आरोप! | RSS-BJP । AISA।Gyanesh Kumar 2026-10-23 22:43</title>
+  <programme start="20261024220520 +0000" stop="20261024230520 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Bangladeshi Couple in Makka: पलट गया Mecca Masjid मामला? | Saudi Arabia | Nazrul Islam | Bangladesh 2026-10-24 22:04</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20261023224339 +0000" stop="20261023234339 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Friday, October 23 2026-10-23 22:43</title>
+  <programme start="20261024220520 +0000" stop="20261024230520 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-10-24 22:04</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20261023224339 +0000" stop="20261023234339 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>DOJ LIVE: US Justice Department Holds Press Conference in Washington DC | Epstein Files | Ilhan Omar 2026-10-23 22:43</title>
+  <programme start="20261024220520 +0000" stop="20261024230520 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>Donald Trump LIVE | Donald Trump Makes Big Announcement LIVE | US News LIVE | US Midterms 2026-10-24 22:05</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20261023224339 +0000" stop="20261023234339 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE NEWS: Trump campaigns for midterm elections, voter turnout surges, West Bank closure &amp; more 2026-10-23 22:43</title>
+  <programme start="20261024220520 +0000" stop="20261024230520 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE NEWS: Trump campaigns for midterm elections, voter turnout surges, West Bank closure &amp; more 2026-10-24 22:05</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20261023224339 +0000" stop="20261023234339 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>Ecuador Prison Riots LIVE: Riots Inside Prison Leave 8 Inmates Dead, 10 Injured | NewsX World 2026-10-23 22:43</title>
+  <programme start="20261024220520 +0000" stop="20261024230520 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>Brussels Student Protests LIVE: Protests Turn Tense As Police Clash With Demonstrators | NewsX World 2026-10-24 22:05</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
