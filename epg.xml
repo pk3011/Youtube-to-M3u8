@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20261101191628 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20261102125714 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20261101191628 +0000" stop="20261101201628 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Rahul Gandhi | BJP | Ramlila Maidan Rally | Akhilesh Yadav | Gyanesh Kumar | BJP 2026-11-01 19:15</title>
+  <programme start="20261102125714 +0000" stop="20261102135714 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: Halla Bol | INDIA Alliance Rally | Rahul Gandhi | PM Modi | Gyanesh Kumar 2026-11-02 12:56</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20261101191628 +0000" stop="20261101201628 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: INDIA Alliance Ramlila Maidan Rally | Rahul Gandhi | Gyanesh Kumar | PM Modi | 2026-11-01 19:15</title>
+  <programme start="20261102125714 +0000" stop="20261102135714 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Mahadangal | Rahul Gandhi | Gyanesh Kumar | Delhi-NCR Pollution | Cyclone Murasu 2026-11-02 12:56</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20261101191628 +0000" stop="20261101201628 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Kerala Piravi | Kerala News Today 2026-11-01 19:15</title>
+  <programme start="20261102125714 +0000" stop="20261102135714 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Kerala News Today | Maharajas College Protest 2026-11-02 12:56</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20261101191628 +0000" stop="20261101201628 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Rahul Gandhi के मार्च पर Delhi Police का ब्रेक| Ramlila Maidan | Congress Rally | Public Impeachment 2026-11-01 19:15</title>
+  <programme start="20261102125714 +0000" stop="20261102135714 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Andhra School Attack : छात्रा की "ना" तो भरी क्लास में काटा गला,हाथ,सिर |   Anantapur school attack 2026-11-02 12:56</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20261101191628 +0000" stop="20261101201628 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-11-01 19:16</title>
+  <programme start="20261102125714 +0000" stop="20261102135714 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - Monday, November 2 2026-11-02 12:56</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20261101191628 +0000" stop="20261101201628 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>LIVE: 'Trump Singe-Handedly Wrecking World Economy...' Sachs Humiliates Trump On Global Stage | USA 2026-11-01 19:16</title>
+  <programme start="20261102125714 +0000" stop="20261102135714 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>WATCH LIVE: French Astronaut Sophie Adenot Speaks After Eight Months in Space 2026-11-02 12:56</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20261101191628 +0000" stop="20261101201628 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>TOP STORIES: Iran latest, midterm elections 2026-11-01 19:16</title>
+  <programme start="20261102125714 +0000" stop="20261102135714 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE: Trump midterm events, Election updates, Iran war latest, Florida plane crash, more 2026-11-02 12:57</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20261101191628 +0000" stop="20261101201628 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>Juventus vs Napoli LIVE | WATCH LIVE | SCORE | LIVE UPDATE | NewsX World 2026-11-01 19:16</title>
+  <programme start="20261102125714 +0000" stop="20261102135714 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>Strait Of Hormuz Opens LIVE : Iran Sets Conditions to Reopen Strait of Hormuz Amid US Tensions 2026-11-02 12:57</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
