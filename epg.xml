@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20261103122908 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20261104034206 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20261103122908 +0000" stop="20261103132908 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Halla Bol | US Iran War | US Election | Cyclone Murasu | Delhi Pollution | PM Modi 2026-11-03 12:28</title>
+  <programme start="20261104034206 +0000" stop="20261104044206 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: US Midterm Election Results | BJP Padayatra | BJP vs Congress | Amit Shah | Iran 2026-11-04 03:41</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20261103122908 +0000" stop="20261103132908 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Mahadangal | Iran US War | US Election | Cyclone Murasu | Delhi Pollution | PM Modi 2026-11-03 12:28</title>
+  <programme start="20261104034206 +0000" stop="20261104044206 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: US Midterm Elections 2026 Live Update | Trump | Cyclone Murasu | Delhi Pollution 2026-11-04 03:41</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20261103122908 +0000" stop="20261103132908 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Kerala News Today | Maharajas College Protest 2026-11-03 12:28</title>
+  <programme start="20261104034206 +0000" stop="20261104044206 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Kerala News Today | Trivandrum Case 2026-11-04 03:41</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20261103122908 +0000" stop="20261103132908 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Jhunjhunu Accident : करंट फैलने से 8 मजदूरों की मौत, 5 गंभीर घायल | Rajasthan News 2026-11-03 12:28</title>
+  <programme start="20261104034206 +0000" stop="20261104044206 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Rahul Gandhi Ramleela Maidan Rally को फ्लॉप बताने वालों पर भड़के Sanjay Raut | Gyanesh Kumar 2026-11-04 03:41</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20261103122908 +0000" stop="20261103132908 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - 24/7 news, context and analysis 2026-11-03 12:28</title>
+  <programme start="20261104034206 +0000" stop="20261104044206 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: Midterm Election Results 2026 | ABC News 2026-11-04 03:41</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20261103122908 +0000" stop="20261103132908 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>LIVE: Aga Ruhullah Mehdi Announces Resignation From Lok Sabha Seat 2026-11-03 12:28</title>
+  <programme start="20261104034206 +0000" stop="20261104044206 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>US Midterm Election 2026 Result LIVE: Jon Ossoff's Victory Speech After Winning Georgia Senate Race 2026-11-04 03:41</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20261103122908 +0000" stop="20261103132908 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE NEWS: Midterm election day 2026, Tracking key Senate races, US strikes Iran &amp; more 2026-11-03 12:28</title>
+  <programme start="20261104034206 +0000" stop="20261104044206 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>Live Coverage of Midterms 2026: Results, Analysis, Live Speeches 2026-11-04 03:41</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20261103122908 +0000" stop="20261103132908 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>US Strikes Iran LIVE: US Strikes Iran's Qeshm Island! Trump Signals Peace Deal as Israel Denies Role 2026-11-03 12:29</title>
+  <programme start="20261104034206 +0000" stop="20261104044206 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>WATCH IND Vs NZ LIVE: Rohit Sharma and Virat Kohli Delight Fans With Autographs Ahead of 1st ODI 2026-11-04 03:42</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
