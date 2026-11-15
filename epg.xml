@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20261114193347 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20261115200132 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20261114193347 +0000" stop="20261114203347 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: Team India Wins U19 Asia Cup Final | SIR | CM Yogi | PM Modi | UP Election 2027 2026-11-14 19:32</title>
+  <programme start="20261115200132 +0000" stop="20261115210132 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: Chhath Puja 2026 | Mohan Bhagwat | PM Modi | Team India Win Series | CM Yogi 2026-11-15 20:00</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20261114193347 +0000" stop="20261114203347 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: Team India Wins U19 Asia Cup Final | Assam Bus Accident | UP Election 2027 | PM Modi 2026-11-14 19:32</title>
+  <programme start="20261115200132 +0000" stop="20261115210132 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: Chhath Puja 2026 | PM Modi | CM Yogi | Akhilesh Yadav | UP Election 2027 | SP | AIMIM 2026-11-15 20:00</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20261114193347 +0000" stop="20261114203347 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Kerala Latest News |  Children's Day 2026 2026-11-14 19:33</title>
+  <programme start="20261115200132 +0000" stop="20261115210132 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Kerala Latest News | Kalpathy Radholsavam 2026-11-15 20:00</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20261114193347 +0000" stop="20261114203347 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Akhilesh Yadav Ayodhya Daura : ये क्या बोल गए Avimukteshwaranand Ji Maharaj | Ram Mandir | CM Yogi 2026-11-14 19:33</title>
+  <programme start="20261115200132 +0000" stop="20261115210132 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-11-15 20:01</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20261114193347 +0000" stop="20261114203347 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Saturday, November 14 2026-11-14 19:33</title>
+  <programme start="20261115200132 +0000" stop="20261115210132 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - Sunday, November 15 2026-11-15 20:01</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20261114193347 +0000" stop="20261114203347 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>LIVE: Hakeem Jeffries Takes Aim at Republicans, Delivers Major Message After Midterm Wins 2026-11-14 19:33</title>
+  <programme start="20261115200132 +0000" stop="20261115210132 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>Donald Trump LIVE: 'Iran Is Militarily Over!' President Makes Major Iran, Cuba &amp; Venezuela Remarks 2026-11-15 20:01</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20261114193347 +0000" stop="20261114203347 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE: US ground stop flight delays &amp; cancellations, Northeast Nor' easter, NOLA tanker collision 2026-11-14 19:33</title>
+  <programme start="20261115200132 +0000" stop="20261115210132 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>TOP STORIES: FAA ground stop fallout, Democrat leadership shakeup 2026-11-15 20:01</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20261114193347 +0000" stop="20261114203347 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>Angola vs South Sudan LIVE | AFCON 2027 Qualifiers | Live Score &amp; Commentary 2026-11-14 19:33</title>
+  <programme start="20261115200132 +0000" stop="20261115210132 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>Miami Airport Collision LIVE: UPS Cargo Plane Hits Copa Airlines Jet | NewsX World 2026-11-15 20:01</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
